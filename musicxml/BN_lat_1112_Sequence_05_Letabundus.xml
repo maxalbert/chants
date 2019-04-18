@@ -192,12 +192,7 @@
 			</note>
 			<direction>
 				<direction-type>
-					<pedal line='no' type='stop' default-y='18' relative-x='2'/>
-				</direction-type>
-			</direction>
-			<direction>
-				<direction-type>
-					<words default-y='-123' relative-x='-5'>This liquescent looks like it could be a B on  260v, but most of the time 
+					<words default-y='-123' relative-x='-5'>* This liquescent looks like it could be a B on  260v, but most of the time 
 the incipit for this sequence occurs later in the ms, it is more clearly a C.  
 C.f. 263v, 292r, 304r.</words>
 				</direction-type>

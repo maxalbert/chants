@@ -28,11 +28,11 @@
 PartPOneVoiceOne =  \relative c' {
     \clef "treble_8" \key c \major \time 23/4 | % 1
     c4 ^"260v" -\markup{ \italic {Analecta hymnica} } -", vol. 54, no.
-    2, pp. 5-8." d4 ( c4 ) d4 ( e4 c4 \sustainOff -"This liquescent
-    looks like it could be a B on 260v, but most of the time the incipit
-    for this sequence occurs later in the ms, it is more clearly a C.
-    C.f. 263v, 292r, 304r." ) c4 f4 g4 ( a4 ) g4 f4 a4 f4 g4 g4 c,4 d4 (
-    c4 ) d4 ( e4 d4 ) c4 | % 2
+    2, pp. 5-8." d4 ( c4 ) d4 ( e4 c4 -"* This liquescent looks like it
+    could be a B on 260v, but most of the time the incipit for this
+    sequence occurs later in the ms, it is more clearly a C. C.f. 263v,
+    292r, 304r." ) c4 f4 g4 ( a4 ) g4 f4 a4 f4 g4 g4 c,4 d4 ( c4 ) d4 (
+    e4 d4 ) c4 | % 2
     \time 22/4  c4 d4 ( c4 ) d4 ( e4 d4 ) c4 f4 a4 g4 f4 a4 f4 g4 g4 c,4
     d4 ( c4 ) d4 ( e4 d4 ) c4 \break | % 3
     \time 27/4  c4 c4 ( d4 ) e4 e4 ( d4 ) f4 f4 ( d4 ) e4 e4 g4 g4
