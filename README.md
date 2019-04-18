@@ -24,4 +24,12 @@ Encountered closing slur, but no slur is open
 unknown mode none, expecting 'major' or 'minor' or a church mode!
 ```
 
-2) 
+2) Lilypond to pdf conversion:
+
+The `.ly` -> `.pdf` conversion was run using:
+```
+$ ./conversion_02_ly2pdf.sh
+```
+The conversion log files are in the folder `logs_ly2pdf`.
+
+Conversion failed on the following files: 5, 11, 12, 13, 19, 21, 30, 44, 52, 58, 65, 67, 73, 76, 77, 79, 84, 86.
