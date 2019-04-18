@@ -1,0 +1,55 @@
+musicxml2ly: Reading MusicXML from musicxml/BN_lat_1112_Sequence_14_Zima_uetus.xml ...
+musicxml2ly: Converting to LilyPond expressions...
+musicxml2ly: warning: Cannot have two simultaneous slurs
+  In: <slur type=start number=1 line-type=dotted>
+
+  In: <notations >
+
+  In: <note >
+
+  In: <measure number=3>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.0>
+
+musicxml2ly: warning: Encountered closing slur, but no slur is open
+  In: <slur type=stop number=2>
+
+  In: <notations >
+
+  In: <note >
+
+  In: <measure number=3>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.0>
+
+musicxml2ly: warning: Cannot have two simultaneous slurs
+  In: <slur type=start number=1 line-type=dotted>
+
+  In: <notations >
+
+  In: <note >
+
+  In: <measure number=4>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.0>
+
+musicxml2ly: warning: Encountered closing slur, but no slur is open
+  In: <slur type=stop number=2>
+
+  In: <notations >
+
+  In: <note >
+
+  In: <measure number=4>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.0>
+
+musicxml2ly: Output to `BN_lat_1112_Sequence_14_Zima_uetus.ly'
