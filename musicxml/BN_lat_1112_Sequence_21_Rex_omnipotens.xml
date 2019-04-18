@@ -4215,7 +4215,7 @@
 			</note>
 			<direction>
 				<direction-type>
-					<pedal line='no' type='stop' default-y='-106'/>
+					<words default-y='-106'>*</words>
 				</direction-type>
 				<offset>324</offset>
 			</direction>

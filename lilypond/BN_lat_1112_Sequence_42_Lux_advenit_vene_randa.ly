@@ -83,12 +83,12 @@ PartPOneVoiceOne =  \relative g {
     c4 ( \slurSolid bes4 g4 ) c4 d4 f4 e4 d4 c4 f4 \slurDotted e4 (
     \slurSolid d4 c4 ) d4 ( e4 ) d4 g4 a4 ( f4 e4 ) c4 d4 ( e4 ) f4 ( g4
     ) \slurDotted f4 ( \slurSolid e4 d4 ) b4 -\markup { \natural } c4
-    -"There are erased flats here" ( b ?4 \sustainOff g4 ) c4 d4 ( e4 )
-    f4 ( g4 ) \slurDotted f4 ( \slurSolid e4 d4 ) b ?4 \sustainOff
-    -"(erased" -"b" -")" c4 ( b4 -\markup { \natural } g4 ) c4 d4 c4 d4
-    \slurDotted f4 ( \slurSolid e4 d4 ) c4 bes4 a4 ( g4 ) \slurDotted
-    bes4 ( \slurSolid a4 g4 ) f4 a4 c4 d4 ( e4 ) d4 c4 bes4 a4 g4 f4 a4
-    c4 ( d4 ) g,4 a4 g4 g4 \break | % 19
+    -"There are erased flats here" ( b ?4 -"*" g4 ) c4 d4 ( e4 ) f4 ( g4
+    ) \slurDotted f4 ( \slurSolid e4 d4 ) b ?4 -"*" -"(erased" -"b" -")"
+    c4 ( b4 -\markup { \natural } g4 ) c4 d4 c4 d4 \slurDotted f4 (
+    \slurSolid e4 d4 ) c4 bes4 a4 ( g4 ) \slurDotted bes4 ( \slurSolid a4
+    g4 ) f4 a4 c4 d4 ( e4 ) d4 c4 bes4 a4 g4 f4 a4 c4 ( d4 ) g,4 a4 g4 g4
+    \break | % 19
     \time 5/4  g4 ( a4 g4 ) f4 ( g4 ) \bar "|."
     }
 

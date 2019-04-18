@@ -88,13 +88,13 @@ PartPOneVoiceOne =  \relative f {
     f4 a4 bes4 ( g4 ) a4 f4 ( g4 ) f4 e4 d4 \bar "||"
     \break | % 17
     \key c \major d4 c4 d4 d4 ( e4 ) g4 f4 e4 d4 a'4 -"(uitiorum)" g4 a4
-    a4 ( b4 ) -\markup { \natural } c4 b4 ( a4 ) b4 a4 a4 \sustainOff
-    -"Text different from reference" c4 a4 f4 g4 f4 e4 ( d4 ) c4 f4 g4 a4
-    ( g4 ) \slurDotted f4 ( \slurSolid e4 d4 ) c4 d4 d4 \break | % 18
+    a4 ( b4 ) -\markup { \natural } c4 b4 ( a4 ) b4 a4 a4 -"*" -"Text
+    different from reference" c4 a4 f4 g4 f4 e4 ( d4 ) c4 f4 g4 a4 ( g4
+    ) \slurDotted f4 ( \slurSolid e4 d4 ) c4 d4 d4 \break | % 18
     d4 c4 d4 d4 ( e4 ) g4 f4 e4 d4 a'4 g4 a4 a4 ( b4 ) c4 b4 ( a4 ) b4 a4
-    a4 \sustainOff -"Text different from reference" c4 a4 f4 g4 f4 e4 (
-    d4 ) c4 f4 g4 a4 ( g4 ) \slurDotted f4 ( \slurSolid e4 d4 ) c4 d4 d4
-    \break | % 19
+    a4 -"*" -"Text different from reference" c4 a4 f4 g4 f4 e4 ( d4 ) c4
+    f4 g4 a4 ( g4 ) \slurDotted f4 ( \slurSolid e4 d4 ) c4 d4 d4 \break
+    | % 19
     \time 5/4  d4 ( e4 d4 ) c4 ( d4 ) \bar "|."
     }
 

@@ -8495,7 +8495,7 @@ the repeated G.</words>
 			</note>
 			<direction>
 				<direction-type>
-					<pedal line='no' type='stop' default-y='10' relative-x='-2'/>
+					<words default-y='10' relative-x='-2'>*</words>
 				</direction-type>
 			</direction>
 			<note>

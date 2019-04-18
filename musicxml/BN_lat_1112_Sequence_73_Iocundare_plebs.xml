@@ -8841,7 +8841,7 @@
 			</note>
 			<direction>
 				<direction-type>
-					<pedal line='no' type='stop' default-y='5' relative-x='-2'/>
+					<words default-y='5' relative-x='-2'>*</words>
 				</direction-type>
 			</direction>
 			<direction>
@@ -9363,7 +9363,7 @@
 			</note>
 			<direction>
 				<direction-type>
-					<pedal line='no' type='stop' default-y='7' relative-x='-2'/>
+					<words default-y='7' relative-x='-2'>*</words>
 				</direction-type>
 			</direction>
 			<direction>

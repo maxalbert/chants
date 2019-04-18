@@ -58,7 +58,7 @@ PartPOneVoiceOne =  \relative a {
     d4 d4 g,4 g4 -"The flat is present in the manuscript, but oddly
     placed. This B is the last note of the line, and the flat is at the
     beginning of the next line, where there are no Bs." a4 c4 bes ?4
-    \sustainOff a4 a4 c4 a4 f4 g4 f4 e4 d4 f4 g4 a4 d,4 f4 e4 d4 | % 14
+    -"*" a4 a4 c4 a4 f4 g4 f4 e4 d4 f4 g4 a4 d,4 f4 e4 d4 | % 14
     d'4 d4 g,4 g4 a4 c4 bes4 a4 a4 c4 a4 f4 g4 f4 e4 d4 f4 g4 a4 d,4 f4
     e4 d4 \pageBreak | % 15
     \time 26/4  e4 f4 g4 g4 g4 f4 g4 ( f4 ) e4 ( d4 ) f4 g4 a4 a4 bes4 a4

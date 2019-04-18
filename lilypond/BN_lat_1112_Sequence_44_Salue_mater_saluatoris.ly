@@ -67,7 +67,7 @@ PartPOneVoiceOne =  \relative g {
     b4 ) a4 c4 -"Note: There is an 'est' at this point in the
     manuscript, but there is no note for it. In the reference text,
     there is no 'est'. I have therefore not included it in the
-    transcription." d4 d4 ( e4 ) g,4 a4 \sustainOff g4 g4 \break | % 19
+    transcription." d4 d4 ( e4 ) g,4 a4 -"*" g4 g4 \break | % 19
     \time 29/4  g'4 f4 e4 ( d4 ) c4 ( d4 ) e4 d4 c4 ( b4 ) a4 c4 d4 f4 e4
     d4 c4 b4 ( c4 ) a4 ( g4 ) c4 d4 d4 ( e4 ) c4 d4 d4 d4 |
     \barNumberCheck #20

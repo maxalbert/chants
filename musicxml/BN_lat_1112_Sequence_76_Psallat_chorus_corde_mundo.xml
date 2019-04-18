@@ -241,7 +241,7 @@
 			</note>
 			<direction>
 				<direction-type>
-					<pedal line='no' type='stop' default-y='38' relative-x='12'/>
+					<words default-y='38' relative-x='12'>*</words>
 				</direction-type>
 			</direction>
 			<direction>

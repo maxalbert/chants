@@ -28,11 +28,10 @@
 PartPOneVoiceOne =  \relative e {
     \clef "treble_8" \key c \major \time 27/4 | % 1
     e4 ^"300v" -\markup{ \italic {Analecta hymnica} } -", vol. 44, no.
-    341, p. 311 (pp. 309-312)." g4 ( g4 ) a4 g4 g4 f4 g4 g4 c4
-    \sustainOff -"Change of text:" -\markup{ \italic {Analectica
-            hymnica} } -", vol. 55, no. 6, pp. 9-11." ( b4 ) a4 g4 a4 b4
-    g4 \slurDotted a4 ( \slurSolid g4 f4 ) e4 d4 f4 a4 g4 f4 g4 g4
-    \break | % 2
+    341, p. 311 (pp. 309-312)." g4 ( g4 ) a4 g4 g4 f4 g4 g4 c4 -"*"
+    -"Change of text:" -\markup{ \italic {Analectica hymnica} } -", vol.
+    55, no. 6, pp. 9-11." ( b4 ) a4 g4 a4 b4 g4 \slurDotted a4 (
+    \slurSolid g4 f4 ) e4 d4 f4 a4 g4 f4 g4 g4 \break | % 2
     \time 29/4  e4 g4 ( g4 ) a4 g4 g4 f4 g4 g4 c4 ( b4 ) a4
     -"('precessit' in the reference text.)" g4 a4 b4 g4 \slurDotted a4 (
     \slurSolid g4 f4 ) e4 ( e4 ) ( f4 ) d4 f4 a4 g4 f4 g4 g4 \break | % 3

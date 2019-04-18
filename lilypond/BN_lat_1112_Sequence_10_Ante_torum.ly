@@ -77,8 +77,8 @@ PartPOneVoiceOne =  \relative e {
     g4 g4 a4 g4 b4 c4 d4 ( e4 ) d4 e4 f4 e4 d4 e4 c4 d4 d4 g,4 b4 d4 d4
     e4 c4 d4 d4 d4 e4 c4 a4 c4 b4 a4 g4 f4 a4 c4 ( d4 -"Note: this note
     is missing in the manuscript, leaving this syllable without a note.
-    I have suggested the repeated G." ) g,4 a4 \parenthesize g4
-    \sustainOff g4 \breathe \break | % 24
+    I have suggested the repeated G." ) g,4 a4 \parenthesize g4 -"*" g4
+    \breathe \break | % 24
     \time 5/4  g4 ( a4 g4 ) f4 ( g4 ) \bar "|."
     }
 

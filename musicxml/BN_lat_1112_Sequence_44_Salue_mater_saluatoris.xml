@@ -6817,7 +6817,7 @@ there is no note for it.  In the reference text, there is no
 			</note>
 			<direction>
 				<direction-type>
-					<pedal line='no' type='stop' default-y='-119'/>
+					<words default-y='-119'>*</words>
 				</direction-type>
 				<offset>-357</offset>
 			</direction>
