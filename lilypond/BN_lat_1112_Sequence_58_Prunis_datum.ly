@@ -40,7 +40,7 @@ PartPOneVoiceOne =  \relative e {
     d4 c4 c4 b4 c4 d4 d4 g,4 a4 b4 a4 g4 f4 g4 g4 | % 6
     \time 27/4  g4 f4 e4 ( d4 ) c4 g'4 ( a4 ) f4 g4 g4 g4 f4 e4 ( d4 ) c4
     g'4 ( a4 ) f4 g4 g4 c4 b4 a4 g4 f4 g4 g4 \break | % 7
-    \time 25/4  g4 d'4 e4 -"("iude" in ms.)" c4 d4 \slurDotted c4 (
+    \time 25/4  g4 d'4 e4 -"('iude' in ms.)" c4 d4 \slurDotted c4 (
     \slurSolid b4 a4 ) c4 d4 d4 c4 b4 a4 c4 d4 d4 g,4 a4 b4 a4 g4 f4 g4
     g4 | % 8
     \time 27/4  g4 f4 e4 ( d4 ) c4 g'4 ( a4 ) f4 g4 g4 g4 f4 e4 ( d4 ) c4
@@ -58,7 +58,7 @@ PartPOneVoiceOne =  \relative e {
     b4 a4 g4 g4 \break | % 14
     d'4 e4 g4 d4 f4 \slurDotted e4 ( \slurSolid d4 c4 ) d4 e4 f4 g4 f4 e4
     d4 c4 d4 e4 f4 e4 d4 c4 b4 \[ b4 -"(written in margin)" c4 d4 c4
-    -"("spectacum" in ms)" b4 a4 f4 a4 \] b4 c4 b4 a4 g4 g4 \pageBreak | % 15
+    -"('spectacum' in ms)" b4 a4 f4 a4 \] b4 c4 b4 a4 g4 g4 \pageBreak | % 15
     \time 25/4  d'4 c4 b4 ( c4 ) a4 ( g4 ) c4 d4 e4 d4 c4 d4 f4 e4 d4 c4
     b4 a4 c4 d4 g,4 a4 b4 a4 g4 | % 16
     \time 27/4  d'4 c4 b4 ( c4 ) a4 ( g4 ) c4 d4 ( e4 c4 ) d4 d4 c4 d4 f4

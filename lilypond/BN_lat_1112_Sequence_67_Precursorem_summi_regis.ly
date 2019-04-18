@@ -52,7 +52,7 @@ PartPOneVoiceOne =  \relative e {
     f4 g4 g4 | % 12
     d'4 c4 d4 c4 f4 e4 d4 c4 c4 d4 f4 e4 d4 c4 d4 d4 d4 b4 c4 a4 ( g4 )
     f4 g4 g4 \break | % 13
-    \time 26/4  d'4 e4 g4 d4 g4 -"("fui" in the ms.)" f4 \slurDotted e4
+    \time 26/4  d'4 e4 g4 d4 g4 -"('fui' in the ms.)" f4 \slurDotted e4
     ( \slurSolid d4 c4 ) d4 e4 f4 g4 f4 e4 d4 d4 b4 d4 b4 c4 a4 ( g4 ) f4
     g4 g4 | % 14
     d'4 e4 g4 d4 g4 f4 \slurDotted e4 ( \slurSolid d4 c4 ) d4 e4 f4 g4 f4

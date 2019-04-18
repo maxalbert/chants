@@ -52,9 +52,9 @@ PartPOneVoiceOne =  \relative b {
     \time 16/4  c4 b4 a4 c4 g4 c4 b4 a4 c4 d4 d4 e4 d4 c4 d4 d4 \break | % 18
     \time 19/4  d4 e4 d4 c4 e4 f4 e4 d4 c4 e4 c4 e4 d4 f4 e4 d4 c4 d4 d4
     | % 19
-    d4 e4 d4 c4 e4 f4 e4 d4 c4 \sustainOff -"Note: There is an "et" at
+    d4 e4 d4 c4 e4 f4 e4 d4 c4 \sustainOff -"Note: There is an 'et' at
     this point in the manuscript, but there is no note for it. In the
-    reference text, there is no "et". I have therefore not included it
+    reference text, there is no 'et'. I have therefore not included it
     in the transcription." e4 c4 e4 d4 f4 e4 d4 c4 d4 d4 \break |
     \barNumberCheck #20
     \time 23/4  c4 a4 c4 b4 c4 a4 g4 a4 ( g4 ) f4 f4 a4 c4 b4 a4 c4 g4 g4
@@ -62,7 +62,7 @@ PartPOneVoiceOne =  \relative b {
     c4 a4 c4 b4 c4 a4 g4 a4 ( g4 ) f4 f4 a4 c4 b4 a4 c4 g4 a4 g4 g4 f4 g4
     g4 \break | % 22
     \time 13/4  g4 d'4 d4 e4 d4 c4 d4 c4 b4 a4 c4 d4 d4 | % 23
-    \time 20/4  g,4 d'4 d4 e4 -"("renehis" in ms)" d4 c4 d4 c4 b4 a4 c4
+    \time 20/4  g,4 d'4 d4 e4 -"('renehis' in ms)" d4 c4 d4 c4 b4 a4 c4
     d4 c4 b4 c4 a4 g4 f4 g4 g4 \break | % 24
     \time 13/4  g4 d'4 d4 e4 d4 c4 d4 c4 b4 a4 c4 d4 d4 | % 25
     \time 20/4  g,4 d'4 d4 e4 d4 c4 d4 c4 b4 a4 c4 d4 c4 b4 c4 a4 g4 f4

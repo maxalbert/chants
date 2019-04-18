@@ -55,7 +55,7 @@ PartPOneVoiceOne =  \relative d {
     d4 c4 d4 a4 \breathe c4 b4 c4 d4 f4 e4 g4 d4 f4 \slurDotted e4 (
     \slurSolid d4 c4 ) d4 d4 f4 g4 a4 d,4 f4 e4 d4 \pageBreak | % 12
     \time 39/4  d4 e4 f4 g4 g4 f4 e4 e4 e4 g4 a4 a4 d,4 e4
-    -"("pectatrix" in ms)" g4 \slurDotted f4 ( \slurSolid e4 d4 ) e4 g4
+    -"('pectatrix' in ms)" g4 \slurDotted f4 ( \slurSolid e4 d4 ) e4 g4
     a4 \slurDotted c4 ( \slurSolid b4 a4 ) a4 a4 d,4 \slurDotted a'4 (
     \slurSolid g4 f4 e4 ) f4 g4 d4 e4 c4 f4 e4 d4 \break | % 13
     \time 38/4  d4 e4 f4 g4 g4 f4 e4 e4 e4 g4 a4 a4 d,4 e4 f4

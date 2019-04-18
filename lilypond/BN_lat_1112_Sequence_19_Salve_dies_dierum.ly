@@ -61,7 +61,7 @@ PartPOneVoiceOne =  \relative g {
     \barNumberCheck #10
     d'4 d4 b4 ( -\markup { \natural } b4 a4 ) g4 a4 c4 d4 c4 e4 d4 g4 f4
     g4 \slurDotted f4 ( \slurSolid e4 d4 ) c4 b4 ( c4 ) a4 ( g4 ) c4 d4
-    d4 f4 ( e4 ) d4 ( c4 ) d4 bes4 a4 c4 d4 g,4 -"("hominum" in ms.)" a4
+    d4 f4 ( e4 ) d4 ( c4 ) d4 bes4 a4 c4 d4 g,4 -"('hominum' in ms.)" a4
     f4 a4 c4 d4 ( g,4 a4 ) g4 \break | % 11
     c4 d4 ( d4 e4 ) g,4 ( a4 ) g4 c4 d4 c4 f4 e4 d4 g4 f4 g4 \slurDotted
     f4 ( \slurSolid e4 d4 ) b4 ( -\markup { \natural } c4 ) a4 g4 c4 d4

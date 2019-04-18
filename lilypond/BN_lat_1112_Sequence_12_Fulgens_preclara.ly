@@ -89,7 +89,7 @@ PartPOneVoiceOne =  \relative g {
     \time 16/4  a4 a4 g4 bes4 ( -\markup { \flat } c4 d4 ) c4 bes4 c4 a4
     bes4 -\markup { \flat } g4 f4 g4 a4 a4 | % 33
     a4 g4 bes4 ( -\markup { \flat } c4 d4 ) d4 c4 bes4 -\markup { \flat
-        } c4 a4 bes4 -"("nule" in ms.)" g4 f4 g4 a4 a4 | % 34
+        } c4 a4 bes4 -"('nule' in ms.)" g4 f4 g4 a4 a4 | % 34
     \time 9/4  a4 g4 bes4 ( -\markup { \flat } c4 d4 ) c4 bes4 -\markup
     { \flat } c4 a4 \bar "|."
     }

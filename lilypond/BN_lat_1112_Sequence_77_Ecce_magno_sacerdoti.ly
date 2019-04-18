@@ -36,7 +36,7 @@ PartPOneVoiceOne =  \relative e {
     g4 e4 f4 e4 d4 a'4 b4 a4 g4 f4 g4 g4 \break | % 4
     \time 25/4  g4 d'4 e4 c4 d4 \slurDotted c4 ( \slurSolid b4 a4 ) c4 d4
     d4 c4 b4 a4 c4 d4 d4 g,4 a4 b4 a4 g4 f4 g4 g4 | % 5
-    \time 29/4  g4 f4 e4 ( d4 ) c4 g'4 a4 g4 f4 g4 g4 g4 f4 -"("aclia"
+    \time 29/4  g4 f4 e4 ( d4 ) c4 g'4 a4 g4 f4 g4 g4 g4 f4 -"('aclia'
     in ms.)" e4 ( d4 ) c4 g'4 a4 g4 f4 g4 g4 c4 b4 a4 g4 f4 g4 g4 \break
     | % 6
     \time 25/4  g4 d'4 e4 c4 d4 \slurDotted c4 ( \slurSolid b4 a4 ) c4 d4
@@ -73,7 +73,7 @@ PartPOneVoiceOne =  \relative e {
     b4 d4 b4 c4 a4 ( g4 ) f4 g4 g4 \break | % 22
     \time 42/4  g4 g4 a4 g4 b4 c4 d4 ( e4 ) d4 e4 f4 e4 d4 e4
     \slurDotted c4 ( \slurSolid b4 a4 ) c4 d4 g,4 b4 d4 d4 e4 c4 d4 d4 d4
-    e4 c4 a4 c4 b4 a4 g4 f4 a4 c4 a4 -"("uulpetula" in ms.)" b4 a4 g4
+    e4 c4 a4 c4 b4 a4 g4 f4 a4 c4 a4 -"('uulpetula' in ms.)" b4 a4 g4
     \break | % 23
     \time 40/4  g4 g4 a4 g4 b4 c4 d4 ( e4 ) d4 e4 f4 e4 d4 e4 c4 d4 d4
     g,4 b4 d4 d4 e4 c4 d4 d4 d4 e4 c4 a4 c4 b4 a4 g4 f4 a4 c4 a4 b4 a4 g4

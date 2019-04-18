@@ -44,7 +44,7 @@ PartPOneVoiceOne =  \relative g {
     g4 f4 g4 g4 \break | % 8
     \time 23/4  g4 g4 g4 f4 e4 ( d4 ) c4 d4 e4 f4 a4 g4 c4 a4 c4 d4 b4 (
     c4 ) a4 g4 f4 g4 g4 | % 9
-    g4 g4 g4 f4 e4 ( d4 ) c4 d4 e4 f4 a4 -"("eolit" in ms.)" g4 c4 a4 c4
+    g4 g4 g4 f4 e4 ( d4 ) c4 d4 e4 f4 a4 -"('eolit' in ms.)" g4 c4 a4 c4
     d4 b4 ( c4 ) a4 g4 f4 g4 g4 \break | \barNumberCheck #10
     \time 21/4  g4 d'4 c4 d4 d4 ( e4 ) d4 c4 ( b4 ) a4 c4 a4 c4 \[ d4
     -"In the margin" b4 ( c4 ) a4 g4 \] f4 g4 g4 | % 11

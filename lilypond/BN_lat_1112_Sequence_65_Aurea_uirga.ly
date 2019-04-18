@@ -46,7 +46,7 @@ PartPOneVoiceOne =  \relative g {
     \time 38/4  d4 d4 d4 d4 c4 b4 ( a4 ) a4 c4 d4 d4 f4 e4 d4 c4 f4 e4 f4
     g4 f4 e4 d4 d4 d4 e4 d4 c4 e4 f4 g4 f4 e4 d4 e4 d4 c4 d4 d4 \break |
     \barNumberCheck #10
-    \time 37/4  d4 d4 d4 d4 c4 b4 a4 c4 d4 d4 f4 e4 d4 -"("neupma" in
+    \time 37/4  d4 d4 d4 d4 c4 b4 a4 c4 d4 d4 f4 e4 d4 -"('neupma' in
     ms.)" c4 f4 e4 f4 g4 f4 e4 d4 d4 d4 e4 d4 c4 e4 f4 g4 f4 e4 d4 e4 d4
     c4 d4 d4 \break | % 11
     \time 35/4  d4 e4 f4 g4 e4 f4 e4 d4 e4 e4 c4 d4 f4 ( g4 ) e4 d4 f4 e4

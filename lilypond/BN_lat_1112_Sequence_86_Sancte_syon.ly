@@ -54,7 +54,7 @@ PartPOneVoiceOne =  \relative g {
     ) f4 g4 | % 12
     c4 a4 b4 ( c4 ) d4 c4 ( b4 ) a4 ( g4 ) a4 ( g4 ) f4 ( e4 ) f4 g4
     \break | % 13
-    c4 d4 ( e4 ) f4 -"("anni" in ms.)" e4 ( d4 e4 ) c4 d4 ( e4 ) f4 e4 (
+    c4 d4 ( e4 ) f4 -"('anni' in ms.)" e4 ( d4 e4 ) c4 d4 ( e4 ) f4 e4 (
     d4 ) e4 d4 | % 14
     c4 d4 ( e4 ) f4 e4 ( d4 e4 ) c4 d4 ( e4 ) f4 e4 ( c4 ) e4 d4
     \pageBreak | % 15

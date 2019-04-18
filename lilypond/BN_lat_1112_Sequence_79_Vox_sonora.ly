@@ -30,7 +30,7 @@ PartPOneVoiceOne =  \relative e {
     e4 ^"302v" -\markup{ \italic {Analecta hymnica} } -", vol. 55, no.
     209, pp. 236-238." g4 ( g4 ) a4 g4 c4 b4 a4 g4 a4 b4 g4 e4 f4 e4 d4
     ( e4 ) g4 a4 b4 a4 g4 f4 g4 g4 \break | % 2
-    \time 26/4  b4 g4 a4 g4 d'4 c4 -"("in bellis" in ms.)" \slurDotted b4
+    \time 26/4  b4 g4 a4 g4 d'4 c4 -"('in bellis' in ms.)" \slurDotted b4
     ( \slurSolid a4 g4 ) a4 b4 b4 a4 c4 g4 e4 f4 e4 d4 a'4 b4 a4 g4 f4 g4
     g4 | % 3
     b4 g4 a4 g4 d'4 c4 \slurDotted b4 ( \slurSolid a4 g4 ) a4 b4 b4 a4 c4
@@ -63,7 +63,7 @@ PartPOneVoiceOne =  \relative e {
     d4 e4 c4 a4 c4 d4 d4 g,4 a4 b4 a4 g4 f4 g4 g4 \break | % 17
     c4 b4 a4 g4 a4 f4 g4 g4 g4 b4 d4 d4 e4 c4 d4 d4 d4 b4 c4 a4 ( g4 a4
     ) f4 g4 g4 | % 18
-    c4 b4 a4 g4 a4 f4 g4 g4 g4 b4 d4 d4 e4 -"("cruciator" in ms.)" c4 d4
+    c4 b4 a4 g4 a4 f4 g4 g4 g4 b4 d4 d4 e4 -"('cruciator' in ms.)" c4 d4
     d4 d4 b4 c4 a4 ( g4 a4 ) f4 g4 g4 \break | % 19
     \time 27/4  d'4 c4 d4 b4 c4 \slurDotted a4 ( \slurSolid g4 f4 ) g4 g4
     g4 b4 d4 d4 e4 c4 d4 d4 d4 b4 c4 a4 ( g4 a4 ) f4 g4 g4 |

@@ -31,7 +31,7 @@ PartPOneVoiceOne =  \relative f {
     30, pp. 33-35." e4 d4 ( c4 ) d4 f4 g4 f4 g4 a4 a4 bes4 a4 g4 a4 ( g4
     ) f4 g4 ( a4 ) f4 e4 d4 | % 2
     \time 16/4  f4 g4 a4 f4 g4 f4 ( e4 ) d4 c4 f4 g4 a4 d,4 f4 e4 d4 | % 3
-    f4 g4 a4 f4 g4 f4 ( e4 ) d4 c4 f4 g4 a4 -"("fulmen" in ms.)" d,4 f4
+    f4 g4 a4 f4 g4 f4 ( e4 ) d4 c4 f4 g4 a4 -"('fulmen' in ms.)" d,4 f4
     e4 d4 \break | % 4
     \time 25/4  g4 a4 b4 a4 b4 c4 a4 f4 g4 a4 f4 e4 f4 g4 \slurDotted f4
     ( \slurSolid e4 d4 ) c4 f4 g4 a4 g4 f4 e4 d4 | % 5
