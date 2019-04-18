@@ -528,7 +528,7 @@
 			</note>
 			<direction>
 				<direction-type>
-					<words default-y='-112' relative-x='-3'>(&quot;in bellis&quot; in ms.)</words>
+					<words default-y='-112' relative-x='-3'>('in bellis' in ms.)</words>
 				</direction-type>
 			</direction>
 			<note>
@@ -6126,7 +6126,7 @@
 			</note>
 			<direction>
 				<direction-type>
-					<words default-y='-100' relative-x='-6'>(&quot;cruciator&quot; in ms.)</words>
+					<words default-y='-100' relative-x='-6'>('cruciator' in ms.)</words>
 				</direction-type>
 			</direction>
 			<note>

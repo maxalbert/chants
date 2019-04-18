@@ -786,7 +786,7 @@
 			</note>
 			<direction>
 				<direction-type>
-					<words default-y='-119' relative-x='-9'>(&quot;fulmen&quot; in ms.)</words>
+					<words default-y='-119' relative-x='-9'>('fulmen' in ms.)</words>
 				</direction-type>
 			</direction>
 			<note>

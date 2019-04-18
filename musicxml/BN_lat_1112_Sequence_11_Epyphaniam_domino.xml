@@ -4720,7 +4720,7 @@
 			</note>
 			<direction>
 				<direction-type>
-					<words default-y='-115'>(&quot;neupma&quot; in ms)</words>
+					<words default-y='-115'>('neupma' in ms)</words>
 				</direction-type>
 				<offset>333</offset>
 			</direction>

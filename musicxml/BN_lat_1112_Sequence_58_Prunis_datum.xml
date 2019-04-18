@@ -2215,7 +2215,7 @@
 			</note>
 			<direction>
 				<direction-type>
-					<words default-y='-114' relative-x='-6'>(&quot;iude&quot; in ms.)</words>
+					<words default-y='-114' relative-x='-6'>('iude' in ms.)</words>
 				</direction-type>
 			</direction>
 			<note>
@@ -5013,7 +5013,7 @@
 			</note>
 			<direction>
 				<direction-type>
-					<words default-y='-110' relative-x='-6'>(&quot;spectacum&quot; in ms)</words>
+					<words default-y='-110' relative-x='-6'>('spectacum' in ms)</words>
 				</direction-type>
 			</direction>
 			<note>

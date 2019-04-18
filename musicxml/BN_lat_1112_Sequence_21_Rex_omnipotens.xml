@@ -4222,9 +4222,9 @@
 			<direction>
 				<direction-type>
 					<words default-y='-140'>Note: 
-There is an &quot;et&quot; at this point in the manuscript, but 
+There is an 'et' at this point in the manuscript, but 
 there is no note for it.  In the reference text, there is no 
-&quot;et&quot;.  I have therefore not included it in the transcription.</words>
+'et'.  I have therefore not included it in the transcription.</words>
 				</direction-type>
 				<offset>366</offset>
 			</direction>
@@ -5218,7 +5218,7 @@ there is no note for it.  In the reference text, there is no
 			</note>
 			<direction>
 				<direction-type>
-					<words default-y='-113' relative-x='-6'>(&quot;renehis&quot; in ms)</words>
+					<words default-y='-113' relative-x='-6'>('renehis' in ms)</words>
 				</direction-type>
 			</direction>
 			<note>

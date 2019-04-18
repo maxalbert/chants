@@ -1641,7 +1641,7 @@
 			</note>
 			<direction>
 				<direction-type>
-					<words default-y='-111' relative-x='2'>(&quot;aclia&quot; in ms.)</words>
+					<words default-y='-111' relative-x='2'>('aclia' in ms.)</words>
 				</direction-type>
 			</direction>
 			<note>
@@ -8109,7 +8109,7 @@
 			</note>
 			<direction>
 				<direction-type>
-					<words default-y='-103' relative-x='-11'>(&quot;uulpetula&quot; in ms.)</words>
+					<words default-y='-103' relative-x='-11'>('uulpetula' in ms.)</words>
 				</direction-type>
 			</direction>
 			<note>
