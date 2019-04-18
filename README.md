@@ -1,4 +1,4 @@
-This repository contains the plainchant sequences sent by AVY on 17 Apr 2019.
+This repository contains plainchant sequence files in MusicXML format, edited by Asher Vijay Yampolsky.
 
 1) MusicXML to Lilypond conversion:
 
@@ -32,4 +32,8 @@ $ ./conversion_02_ly2pdf.sh
 ```
 The conversion log files are in the folder `logs_ly2pdf`.
 
-Conversion failed on the following files: 5, 11, 12, 13, 19, 21, 30, 44, 52, 58, 65, 67, 73, 76, 77, 79, 84, 86.
+Note that some MusicXML files were slightly tweaked in order to avoid errors or warnings during conversion:
+
+- Replaced `&quot;` with `'`.
+- Replaced a couple of occurrences of `<key><mode>none</mode></key>` with `<key><mode>major</mode></key>`.
+- Replaced the 'pedal sustain off' symbol with a regular asterisk `*` symbol.
