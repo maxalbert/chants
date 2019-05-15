@@ -1,0 +1,16 @@
+musicxml2ly: Reading MusicXML from musicxml/F3O03ps_Responsory_Verbum_V_In_Principio.xml ...
+musicxml2ly: Converting to LilyPond expressions...
+Traceback (most recent call last):
+  File "/Users/maxalbert/Applications/LilyPond.app/Contents/Resources/bin/musicxml2ly", line 2986, in <module>
+    main()
+  File "/Users/maxalbert/Applications/LilyPond.app/Contents/Resources/bin/musicxml2ly", line 2981, in main
+    voices = convert (filename, options)
+  File "/Users/maxalbert/Applications/LilyPond.app/Contents/Resources/bin/musicxml2ly", line 2896, in convert
+    update_score_setup (score, part_list, voices)
+  File "/Users/maxalbert/Applications/LilyPond.app/Contents/Resources/bin/musicxml2ly", line 2794, in update_score_setup
+    score_structure.set_part_information (part_id, staves_info)
+  File "/Users/maxalbert/Applications/LilyPond.app/Contents/Resources/share/lilypond/current/python/musicexp.py", line 1935, in set_part_information
+    self.contents.set_part_information (part_id, staves_info)
+  File "/Users/maxalbert/Applications/LilyPond.app/Contents/Resources/share/lilypond/current/python/musicexp.py", line 1774, in set_part_information
+    c.set_part_information (part_name, staves_info)
+AttributeError: PartGroupInfo instance has no attribute 'set_part_information'
