@@ -1,0 +1,107 @@
+musicxml2ly: Reading MusicXML from musicxml/F3M23ps_Alleluya_V_Ascendens_Cristus.xml ...
+musicxml2ly: Converting to LilyPond expressions...
+musicxml2ly: warning: Cannot have a slur inside another slur
+  In: <slur type=start number=2 line-type=dashed>
+
+  In: <notations >
+
+  In: <note >
+
+  In: <measure number=1>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.0>
+
+musicxml2ly: warning: Encountered closing slur, but no slur is open
+  In: <slur type=stop number=2>
+
+  In: <notations >
+
+  In: <note >
+
+  In: <measure number=1>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.0>
+
+musicxml2ly: warning: Cannot have a slur inside another slur
+  In: <slur type=start number=2 line-type=dashed>
+
+  In: <notations >
+
+  In: <note >
+
+  In: <measure number=2>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.0>
+
+musicxml2ly: warning: Encountered closing slur, but no slur is open
+  In: <slur type=stop number=2>
+
+  In: <notations >
+
+  In: <note >
+
+  In: <measure number=2>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.0>
+
+musicxml2ly: warning: Cannot have a slur inside another slur
+  In: <slur type=start number=2 line-type=dashed>
+
+  In: <notations >
+
+  In: <note >
+
+  In: <measure number=3>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.0>
+
+musicxml2ly: warning: Encountered closing slur, but no slur is open
+  In: <slur type=stop number=2>
+
+  In: <notations >
+
+  In: <note >
+
+  In: <measure number=3>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.0>
+
+musicxml2ly: warning: Cannot have a slur inside another slur
+  In: <slur type=start number=2 line-type=dashed>
+
+  In: <notations >
+
+  In: <note >
+
+  In: <measure number=4>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.0>
+
+musicxml2ly: warning: Encountered closing slur, but no slur is open
+  In: <slur type=stop number=2>
+
+  In: <notations >
+
+  In: <note >
+
+  In: <measure number=4>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.0>
+
+musicxml2ly: Output to `F3M23ps_Alleluya_V_Ascendens_Cristus.ly'
