@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2017-03-20"
+    encodingdate = "2019-05-28"
     copyright = "Copyright © "
     title = "18. Alleluya V. Cristus resurgens"
     }
@@ -73,11 +73,11 @@ PartPOneVoiceOneLyricsOne =  \lyricmode { Al \skip4 le \skip4 \skip4 lu
     \skip4 \skip4 tu is iam \skip4 \skip4 non \skip4 mo ri tur mors
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
-    \skip4 il \skip4 \skip4 li ul \skip4 "tra." \skip4 \skip4 \skip4
+    \skip4 il \skip4 \skip4 li ul \skip4 tra \skip4 \skip4 \skip4 \skip4
+    \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 Al
+    \skip4 le \skip4 \skip4 lu "ya." \skip4 \skip4 \skip4 \skip4 \skip4
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
-    \skip4 Al \skip4 le \skip4 \skip4 lu "ya." \skip4 \skip4 \skip4
-    \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
-    \skip4 \skip4 \skip4 }
+    \skip4 }
 PartPOneVoiceOneLyricsTwo =  \lyricmode { \skip4 \skip4 \skip4 \skip4
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
@@ -87,7 +87,7 @@ PartPOneVoiceOneLyricsTwo =  \lyricmode { \skip4 \skip4 \skip4 \skip4
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 non
-    \skip4 do \skip4 mi na \skip4 bi \skip4 tur \skip4 \skip4 \skip4
+    \skip4 do \skip4 mi na \skip4 bi \skip4 "tur." \skip4 \skip4 \skip4
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
     \skip4 \skip4 \skip4 \skip4 }

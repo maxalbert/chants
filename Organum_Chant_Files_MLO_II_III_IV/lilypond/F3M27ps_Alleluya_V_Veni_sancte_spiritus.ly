@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2017-03-20"
+    encodingdate = "2019-05-28"
     copyright = "Copyright © "
     title = "27. Alleluya V. Veni sancte spiritus"
     }
@@ -34,20 +34,20 @@ PartPOneVoiceOne =  \relative c {
     \slurSolid g4 ) \slurDashed f4 ( \slurSolid e4 d4 c4 ) f4 ( e4 g4 d4
     -"20" ) f4 f4 ( d4 ) \bar "||"
     \break | % 2
+    \time 105/4  | % 2
     d4 -"V" ( e4 f4 \slurDashed e4 ) ( \slurSolid d4 c4 ) d4 d4 d4 -"25"
     e4 ( f4 ) g4 g4 ( f4 g4 e4 ) f4 ( c4 e4 ) e4 ( c4 -"30" d4 ) d4 f4
     \slurDashed e4 ( \slurSolid d4 c4 ) d4 ( e4 -"35" ) e4 ( d4 ) d4 f4
     ( e4 ) f4 ( g4 ) g4 f4 e4 ( f4 d4 -"40" e4 ) e4 e4 ( d4 ) c4 ( d4 )
-    d4 e4 g4 g4 ( a4 ) \break | % 3
-    \time 53/4  a4 \slurDashed bes4 ( \slurSolid a4 g4 ) g4 g4
+    d4 e4 g4 g4 ( a4 ) a4 \slurDashed bes4 ( \slurSolid a4 g4 ) g4 g4
     \slurDashed g4 ( \slurSolid f4 d4 ) e4 ( f4 \slurDashed e4 ) (
     \slurSolid d4 ) c4 ( e4 ) g4 ( a4 -"55" ) \slurDashed b4 (
     \slurSolid a4 g4 ) g4 g4 \slurDashed g4 ( \slurSolid f4 d4 ) e4 ( f4
     \slurDashed e4 ) ( \slurSolid d4 -"60" ) c4 ( d4 ) e4 ( f4 ) e4 e4 (
     c4 d4 -"65" ) e4 ( d4 ) d4 c4 d4 d4 d4 ( e4 f4 \slurDashed e4 ) (
     \slurSolid d4 ) e4 ( d4 c4 d4 ) d4 -"70" \bar "||"
-    \break | % 4
-    \time 52/4  | % 4
+    \break | % 3
+    \time 52/4  | % 3
     c4 -"R" d4 d4 ( e4 f4 \slurDashed e4 ) ( \slurSolid d4 ) e4 ( d4 ) c4
     d4 d4 g4 ( e4 ) f4 ( \slurDashed g4 ) ( \slurSolid f4 e4 d4 ) g4 ( e4
     -"10" ) c4 ( d4 ) d4 g4 ( e4 ) f4 ( \slurDashed g4 ) ( \slurSolid f4

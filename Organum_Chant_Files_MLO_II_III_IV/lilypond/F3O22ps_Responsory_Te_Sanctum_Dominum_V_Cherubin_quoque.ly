@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2017-03-20"
+    encodingdate = "2019-05-28"
     copyright = "Copyright © "
     title = "22. Responsory: Te Sanctum Dominum V. Cherubin quoque"
     }
@@ -73,20 +73,21 @@ PartPOneVoiceOne =  \relative d {
 PartPOneVoiceOneLyricsOne =  \lyricmode { Te san -- "ctum " __ "do " --
     "mi " -- num in ex -- "cel " -- \skip4 \skip4 sis "lau " -- dant "om
     " -- \skip4 \skip4 nes "an " -- \skip4 "ge " -- li "di " -- "cen "
-    -- tes "Te " __ "de " -- \skip4 \skip4 \skip4 cet "laus " __ \skip4
-    \skip4 \skip4 "et " __ "ho " -- "nor " __ \skip4 \skip4 \skip4
-    \skip4 do -- "mi " -- \skip4 "ne. " __ Che -- ru -- "bin " __ \skip4
-    \skip4 \skip4 "quo " -- \skip4 que "et " __ "se " -- \skip4 "ra " --
-    "phin " __ "san " -- \skip4 "ctus " __ "pro " -- "cla " -- mant "et
-    " __ "om " -- "nis " __ "ce " -- "li " -- "cus " __ "or " -- \skip4
-    "do " __ "te " -- sta -- "tur." "Te " __ "de " -- \skip4 \skip4
-    \skip4 cet "laus " __ \skip4 \skip4 \skip4 "et " __ "ho " -- "nor "
-    __ \skip4 \skip4 \skip4 \skip4 do -- "mi " -- \skip4 "ne. " __ Glo
-    -- "ri " -- "a " __ \skip4 \skip4 "pa " -- \skip4 tri "et " __ "fi "
-    -- \skip4 "li " -- "o " __ et spi -- "ri " -- \skip4 \skip4 "tu " --
-    \skip4 "i " __ san -- "cto." "Te " __ "de " -- \skip4 \skip4 \skip4
-    cet "laus " __ \skip4 \skip4 \skip4 "et " __ "ho " -- "nor " __
-    \skip4 \skip4 \skip4 \skip4 do -- "mi " -- \skip4 "ne. " __ }
+    -- "tes:" "Te " __ "de " -- \skip4 \skip4 \skip4 cet "laus " __
+    \skip4 \skip4 \skip4 "et " __ "ho " -- "nor " __ \skip4 \skip4
+    \skip4 \skip4 do -- "mi " -- \skip4 "ne. " __ Che -- ru -- "bin " __
+    \skip4 \skip4 \skip4 "quo " -- \skip4 que "et " __ "se " -- \skip4
+    "ra " -- "phin " __ "san " -- \skip4 "ctus " __ "pro " -- "cla " --
+    mant "et " __ "om " -- "nis " __ "ce " -- "li " -- "cus " __ "or "
+    -- \skip4 "do " __ "te " -- sta -- "tur." "Te " __ "de " -- \skip4
+    \skip4 \skip4 cet "laus " __ \skip4 \skip4 \skip4 "et " __ "ho " --
+    "nor " __ \skip4 \skip4 \skip4 \skip4 do -- "mi " -- \skip4 "ne. "
+    __ Glo -- "ri " -- "a " __ \skip4 \skip4 "pa " -- \skip4 tri "et "
+    __ "fi " -- \skip4 "li " -- "o " __ et spi -- "ri " -- \skip4 \skip4
+    "tu " -- \skip4 "i " __ san -- "cto." "Te " __ "de " -- \skip4
+    \skip4 \skip4 cet "laus " __ \skip4 \skip4 \skip4 "et " __ "ho " --
+    "nor " __ \skip4 \skip4 \skip4 \skip4 do -- "mi " -- \skip4 "ne. "
+    __ }
 
 % The score definition
 \score {

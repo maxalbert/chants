@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2017-03-20"
+    encodingdate = "2019-05-28"
     copyright = "Copyright © "
     title = "30. Responsory: Deum Time V. Timentibus"
     }
@@ -59,11 +59,11 @@ PartPOneVoiceOne =  \relative d {
 
 PartPOneVoiceOneLyricsOne =  \lyricmode { De um \skip4 ti \skip4 \skip4
     \skip4 \skip4 \skip4 \skip4 me \skip4 et \skip4 man da \skip4 ta
-    \skip4 ei us ob \skip4 \skip4 \skip4 \skip4 ser \skip4 va Hoc \skip4
+    \skip4 ei us ob \skip4 \skip4 \skip4 \skip4 ser \skip4 "va:" Hoc
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
-    \skip4 \skip4 est om \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
-    \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 nis \skip4 ho
-    \skip4 "mo." Ti men ti bus \skip4 \skip4 de \skip4 \skip4 \skip4
+    \skip4 \skip4 \skip4 est om \skip4 \skip4 \skip4 \skip4 \skip4
+    \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 nis \skip4
+    ho \skip4 "mo." Ti men ti bus \skip4 \skip4 de \skip4 \skip4 \skip4
     \skip4 \skip4 um nic \skip4 hil \skip4 de \skip4 est nec hiis \skip4
     \skip4 qui e \skip4 \skip4 um di \skip4 \skip4 \skip4 \skip4 li
     \skip4 gunt in ve \skip4 ri \skip4 \skip4 ta "te." Hoc \skip4 \skip4

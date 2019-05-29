@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2017-03-20"
+    encodingdate = "2019-05-28"
     title = "17. Responsory: Veni electa mea V. Specie tua"
     }
 
@@ -33,7 +33,8 @@ PartPOneVoiceOne =  \relative a, {
     \time 43/4  | % 2
     d4 -"R2" f4 g4 g4 -"30" a4 g4 g4 f4 g4 a4 f4 f4 e4 c4 d4 d4 d4 c4 d4
     e4 f4 e4 d4 f4 -"40" f4 f4 f4 d4 d4 e4 \slurDashed c4 ( \slurSolid a4
-    ) c4 e4 c4 f4 e4 f4 d4 d4 -"50" e4 d4 d4 \break | % 3
+    ) c4 e4 c4 f4 e4 f4 d4 d4 -"50" e4 d4 d4 \bar "||"
+    \break | % 3
     \time 53/4  | % 3
     c4 -"V" d4 f4 f4 g4 f4 f4 g4 a4 g4 f4 f4 f4 -"60" f4 e4 f4 g4 e4 f4
     d4 e4 f4 e4 e4 d4 d4 c4 d4 d4 d4 -"70" f4 d4 d4 d4 d4 e4 \slurDashed
@@ -43,7 +44,8 @@ PartPOneVoiceOne =  \relative a, {
     \time 43/4  | % 4
     d4 -"R2" f4 g4 g4 -"30" a4 g4 g4 f4 g4 a4 f4 f4 e4 c4 d4 d4 d4 c4 d4
     e4 f4 e4 d4 f4 -"40" f4 f4 f4 d4 d4 e4 \slurDashed c4 ( \slurSolid a4
-    ) c4 e4 c4 f4 e4 f4 d4 d4 -"50" e4 d4 d4 \break | % 5
+    ) c4 e4 c4 f4 e4 f4 d4 d4 -"50" e4 d4 d4 \bar "||"
+    \break | % 5
     \time 53/4  | % 5
     c4 -"D" ( d4 ) f4 f4 ( g4 ) f4 -"90" f4 g4 a4 g4 f4 f4 f4 -"60" f4 e4
     f4 g4 e4 f4 d4 e4 f4 e4 e4 d4 d4 c4 d4 d4 d4 f4 d4 d4 d4 d4 e4

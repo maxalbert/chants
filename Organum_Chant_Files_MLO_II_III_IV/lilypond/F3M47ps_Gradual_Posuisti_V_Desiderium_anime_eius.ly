@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2018-05-13"
+    encodingdate = "2019-05-28"
     copyright = "Copyright © "
     title = "47. Gradual: Posuisti V. Desiderium anime eius"
     }
@@ -42,21 +42,22 @@ PartPOneVoiceOne =  \relative c {
     \slurSolid d4 c4 ) f4 a4 g4 -"60" c4 c4 c4 a4 g4 a4 \slurDashed b4 (
     \slurSolid f4 -"65" d4 ) f4 f4 g4 f4 \bar "||"
     \break | % 3
+    \time 75/4  | % 3
     c4 -"V" d4 d4 a'4 a4 -"70" c4 a4 a4 g4 \slurDashed a4 ( \slurSolid g4
     e4 ) f4 g4 e4 g4 \slurDashed bes4 -"75" ( \slurSolid a4 g4 )
     \slurDashed a4 ( \slurSolid f4 d4 ) e4 g4 \slurDashed a4 (
     \slurSolid f4 e4 ) g4 a4 -"80" f4 f4 f4 d4 \slurDashed f4 (
     \slurSolid e4 d4 ) f4 -"85" g4 a4 bes4 a4 a4 \slurDashed a4 (
     \slurSolid g4 f4 ) g4 a4 \slurDashed g4 ( \slurSolid f4 -"90" ) g4 a4
-    g4 f4 -"95" f4 \break | % 4
-    \time 85/4  f4 a4 a4 g4 \slurDashed a4 ( \slurSolid g4 f4 ) g4 d4 d4
-    f4 -"100" e4 f4 e4 f4 \slurDashed a4 ( \slurSolid g4 e4 ) f4 d4 d4 f4
-    ( e4 ) c4 d4 d4 f4 f4 f4 d4 \slurDashed f4 ( \slurSolid e4 d4 ) d4 e4
-    f4 g4 g4 a4 a4 -"115" g4 f4 f4 f4 a4 a4 g4 \slurDashed a4 -"120" (
-    \slurSolid g4 f4 ) g4 d4 d4 f4 e4 f4 e4 f4 \slurDashed a4 (
-    \slurSolid g4 -"125" e4 ) g4 d4 d4 c4 d4 f4 f4 -"130" f4 g4 g4 f4 g4
-    a4 g4 a4 \slurDashed a4 ( \slurSolid g4 f4 e4 -"135" ) f4 g4
-    \slurDashed a4 ( \slurSolid g4 f4 ) \bar "||"
+    g4 f4 -"95" f4 f4 a4 a4 g4 \slurDashed a4 ( \slurSolid g4 f4 ) g4 d4
+    d4 f4 -"100" e4 f4 e4 f4 \slurDashed a4 ( \slurSolid g4 e4 ) f4 d4 d4
+    \break | % 4
+    \time 64/4  f4 ( e4 ) c4 d4 d4 f4 f4 f4 d4 \slurDashed f4 (
+    \slurSolid e4 d4 ) d4 e4 f4 g4 g4 a4 a4 -"115" g4 f4 f4 f4 a4 a4 g4
+    \slurDashed a4 -"120" ( \slurSolid g4 f4 ) g4 d4 d4 f4 e4 f4 e4 f4
+    \slurDashed a4 ( \slurSolid g4 -"125" e4 ) g4 d4 d4 c4 d4 f4 f4
+    -"130" f4 g4 g4 f4 g4 a4 g4 a4 \slurDashed a4 ( \slurSolid g4 f4 e4
+    -"135" ) f4 g4 \slurDashed a4 ( \slurSolid g4 f4 ) \bar "||"
     \break | % 5
     \time 84/4  | % 5
     c4 -"R" d4 d4 a'4 bes4 a4 a4 \slurDashed bes4 ( \slurSolid a4 g4 )
@@ -91,7 +92,7 @@ PartPOneVoiceOneLyricsOne =  \lyricmode { Po su is \skip4 ti \skip4 do
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
     \skip4 \skip4 \skip4 a \skip4 \skip4 \skip4 ni me e \skip4 \skip4
     \skip4 \skip4 \skip4 ius tri bu is \skip4 \skip4 \skip4 \skip4
-    \skip4 ti e \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 i \skip4
+    \skip4 ti e \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 "i:" \skip4
     \skip4 et vo lun ta \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
     \skip4 \skip4 te \skip4 \skip4 \skip4 la bi o \skip4 \skip4 \skip4
     \skip4 \skip4 rum e \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4

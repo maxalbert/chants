@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2017-03-20"
+    encodingdate = "2019-05-28"
     title = "12. Processional Responsory: Advenit Ignis V. Invenit Eos"
     }
 
@@ -58,7 +58,8 @@ PartPOneVoiceOne =  \relative g {
     a4 -"R3" g4 c4 g4 \slurDashed a4 ( \slurSolid g4 f4 ) f4 a4 c4 d4
     \slurDashed c4 -"80" ( \slurSolid b4 a4 ) \slurDashed c4 (
     \slurSolid b4 a4 ) \slurDashed b4 ( \slurSolid a4 g4 ) g4 a4 c4 a4 b4
-    a4 g4 \break | % 7
+    a4 g4 \bar "||"
+    \break | % 7
     \time 46/4  | % 7
     a4 -"D" c4 c4 b4 b4 g4 b4 a4 b4 c4 a4 b4 g4 g4 a4 b4 a4 -"130" a4 g4
     g4 g4 a4 c4 \slurDashed a4 ( \slurSolid g4 -"140" ) a4 c4 a4 g4 f4 g4

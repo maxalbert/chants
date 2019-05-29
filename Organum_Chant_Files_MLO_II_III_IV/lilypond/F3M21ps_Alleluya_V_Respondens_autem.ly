@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2017-03-20"
+    encodingdate = "2019-05-28"
     copyright = "Copyright © "
     title = "21. Alleluya V. Respondens autem"
     }
@@ -31,16 +31,18 @@ PartPOneVoiceOne =  \relative c {
     a4 g4 ) f4 ( g4 f4 ) d4 ( e4 -"10" d4 ) d4 ( c4 ) c4 ( d4 ) e4 ( f4
     ) g4 ( a4 ) b4 ( a4 ) a4 -"15" ( g4 ) \bar "||"
     \break | % 2
-    \time 77/4  | % 2
+    \time 24/4  | % 2
     c,4 -"V" ( d4 ) e4 f4 g4 -"20" f4 a4 ( g4 ) f4 ( g4 ) g4 g4 g4 -"25"
     ( a4 ) g4 a4 ( c4 ) \slurDashed c4 ( \slurSolid b4 a4 g4 -"30" ) f4
-    ( g4 ) g4 g4 f4 \slurDashed g4 ( \slurSolid f4 e4 d4 ) \slurDashed e4
-    ( \slurSolid d4 c4 -"35" ) c4 c4 d4 e4 f4 a4 ( g4 ) f4 ( g4 ) g4 g4
-    g4 ( a4 g4 ) f4 ( g4 -"45" f4 ) d4 ( f4 d4 ) d4 ( c4 ) c4 ( d4 ) e4
-    ( f4 ) g4 ( a4 ) a4 -"50" ( g4 ) f4 ( g4 ) g4 a4 ( g4 ) f4 ( g4 ) g4
-    g4 ( a4 g4 ) f4 ( g4 f4 ) \bar "||"
-    \break | % 3
-    \time 32/4  | % 3
+    ( g4 ) g4 | % 3
+    \time 10/4  g4 f4 \slurDashed g4 ( \slurSolid f4 e4 d4 ) \slurDashed
+    e4 ( \slurSolid d4 c4 -"35" ) c4 | % 4
+    \time 9/4  c4 d4 e4 f4 a4 ( g4 ) f4 ( g4 ) g4 \break | % 5
+    \time 34/4  g4 g4 ( a4 g4 ) f4 ( g4 -"45" f4 ) d4 ( f4 d4 ) d4 ( c4
+    ) c4 ( d4 ) e4 ( f4 ) g4 ( a4 ) a4 -"50" ( g4 ) f4 ( g4 ) g4 a4 ( g4
+    ) f4 ( g4 ) g4 g4 ( a4 g4 ) f4 ( g4 f4 ) \bar "||"
+    \break | % 6
+    \time 32/4  | % 6
     c4 -"R" ( d4 ) e4 ( f4 ) g4 ( a4 ) a4 ( g4 ) f4 g4 \breathe g4 g4 (
     a4 g4 ) f4 ( g4 f4 ) d4 ( e4 -"10" d4 ) d4 ( c4 ) c4 ( d4 ) e4 ( f4
     ) g4 ( a4 ) b4 ( a4 ) a4 -"15" ( g4 ) \bar "|."
@@ -48,7 +50,7 @@ PartPOneVoiceOne =  \relative c {
 
 PartPOneVoiceOneLyricsOne =  \lyricmode { Al le lu ya \skip4 \skip4
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
-    \skip4 Res pon dens au tem an ge lus di xit mu li e ri bus quem
+    \skip4 Res pon dens au tem an ge lus di xit mu li e ri "bus:" quem
     \skip4 que re "tis?" il le au tem di xe "runt:" Ihe sum \skip4
     \skip4 \skip4 Na za \skip4 \skip4 re num cru \skip4 ci fi xum Al le
     lu ya \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4

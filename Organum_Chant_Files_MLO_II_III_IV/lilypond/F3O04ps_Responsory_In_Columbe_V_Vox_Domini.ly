@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2017-03-20"
+    encodingdate = "2019-05-28"
     copyright = "Copyright © "
     title = "4. Responsory: In Columbe V. Vox Domini"
     }
@@ -31,54 +31,60 @@ PartPOneVoiceOne =  \relative d {
     \slurDashed f4 ( \slurSolid e4 d4 ) d4 ( \slurDashed e4 ) (
     \slurSolid d4 c4 ) c4 d4 f4 f4 ( e4 ) e4 ( d4 ) d4 ( f4 ) g4 ( e4 )
     f4 ( e4 ) d4 d4 ( e4 ) \slurDashed f4 ( \slurSolid e4 d4 ) e4 e4 ( d4
-    ) \break | % 2
-    \time 98/4  | % 2
+    ) | % 2
+    \time 21/4  | % 2
     f4 ^"R2" f4 ( g4 ) a4 ( g4 ) a4 ( bes4 ) a4 g4 ( \slurDashed a4 ) (
-    \slurSolid g4 e4 ) f4 ( g4 ) f4 ( g4 ) f4 ( e4 ) e4 ( d4 e4 ) d4 ( e4
-    ) d4 d4 ( e4 ) d4 d4 d4 ( e4 ) \slurDashed f4 ( \slurSolid e4 d4 ) e4
-    ( c4 ) d4 f4 ( e4 ) f4 ( g4 f4 ) \slurDashed f4 ( \slurSolid e4 d4 )
-    f4 d4 d4 ( c4 ) c4 d4 d4 d4 ( g4 ) f4 \slurDashed f4 ( \slurSolid e4
-    d4 c4 ) f4 e4 ( f4 ) g4 ( a4 f4 ) \slurDashed g4 ( \slurSolid f4 e4
-    ) e4 ( d4 ) d4 ( e4 ) f4 e4 f4 e4 ( d4 ) d4 ( \slurDashed e4 ) (
-    \slurSolid d4 c4 ) c4 ( f4 ) f4 e4 ( f4 ) g4 ( a4 f4 ) \slurDashed g4
-    ( \slurSolid f4 e4 ) d4 ( e4 ) f4 ( e4 f4 ) e4 ( d4 ) \bar "||"
-    \break | % 3
-    \time 55/4  | % 3
+    \slurSolid g4 e4 ) f4 ( g4 ) f4 ( g4 ) f4 ( e4 ) e4 ( d4 e4 ) \break
+    | % 3
+    \time 55/4  d4 ( e4 ) d4 d4 ( e4 ) d4 d4 d4 ( e4 ) \slurDashed f4 (
+    \slurSolid e4 d4 ) e4 ( c4 ) d4 f4 ( e4 ) f4 ( g4 f4 ) \slurDashed f4
+    ( \slurSolid e4 d4 ) f4 d4 d4 ( c4 ) c4 d4 d4 d4 ( g4 ) f4
+    \slurDashed f4 ( \slurSolid e4 d4 c4 ) f4 e4 ( f4 ) g4 ( a4 f4 )
+    \slurDashed g4 ( \slurSolid f4 e4 ) e4 ( d4 ) d4 ( e4 ) f4 e4 f4 e4
+    ( d4 ) \break | % 4
+    \time 22/4  d4 ( \slurDashed e4 ) ( \slurSolid d4 c4 ) c4 ( f4 ) f4
+    e4 ( f4 ) g4 ( a4 f4 ) \slurDashed g4 ( \slurSolid f4 e4 ) d4 ( e4 )
+    f4 ( e4 f4 ) e4 ( d4 ) \bar "||"
+    \break | % 5
+    \time 55/4  | % 5
     d4 ^"V" c4 ( d4 ) f4 f4 ( g4 ) f4 f4 f4 f4 g4 ( a4 ) g4 f4 ( g4 ) f4
     f4 f4 f4 ( e4 ) f4 ( g4 ) e4 ( f4 ) d4 d4 ( e4 ) f4 ( e4 ) e4 ( d4 )
     d4 c4 ( d4 ) d4 d4 d4 ( e4 ) \slurDashed f4 ( \slurSolid e4 d4 c4 )
     d4 f4 ( e4 ) f4 ( g4 f4 ) \slurDashed f4 ( \slurSolid e4 d4 ) f4 d4
     d4 ( c4 ) \bar "||"
-    \break | % 4
-    \time 98/4  | % 4
+    \break | % 6
+    \time 21/4  | % 6
     f4 ^"R2" f4 ( g4 ) a4 ( g4 ) a4 ( bes4 ) a4 g4 ( \slurDashed a4 ) (
-    \slurSolid g4 e4 ) f4 ( g4 ) f4 ( g4 ) f4 ( e4 ) e4 ( d4 e4 ) d4 ( e4
-    ) d4 d4 ( e4 ) d4 d4 d4 ( e4 ) \slurDashed f4 ( \slurSolid e4 d4 ) e4
-    ( c4 ) d4 f4 ( e4 ) f4 ( g4 f4 ) \slurDashed f4 ( \slurSolid e4 d4 )
-    f4 d4 d4 ( c4 ) c4 d4 d4 d4 ( g4 ) f4 \slurDashed f4 ( \slurSolid e4
-    d4 c4 ) f4 e4 ( f4 ) g4 ( a4 f4 ) \slurDashed g4 ( \slurSolid f4 e4
-    ) e4 ( d4 ) d4 ( e4 ) f4 e4 f4 e4 ( d4 ) d4 ( \slurDashed e4 ) (
-    \slurSolid d4 c4 ) c4 ( f4 ) f4 e4 ( f4 ) g4 ( a4 f4 ) \slurDashed g4
-    ( \slurSolid f4 e4 ) d4 ( e4 ) f4 ( e4 f4 ) e4 ( d4 ) \bar "|."
+    \slurSolid g4 e4 ) f4 ( g4 ) f4 ( g4 ) f4 ( e4 ) e4 ( d4 e4 ) \break
+    | % 7
+    \time 55/4  d4 ( e4 ) d4 d4 ( e4 ) d4 d4 d4 ( e4 ) \slurDashed f4 (
+    \slurSolid e4 d4 ) e4 ( c4 ) d4 f4 ( e4 ) f4 ( g4 f4 ) \slurDashed f4
+    ( \slurSolid e4 d4 ) f4 d4 d4 ( c4 ) c4 d4 d4 d4 ( g4 ) f4
+    \slurDashed f4 ( \slurSolid e4 d4 c4 ) f4 e4 ( f4 ) g4 ( a4 f4 )
+    \slurDashed g4 ( \slurSolid f4 e4 ) e4 ( d4 ) d4 ( e4 ) f4 e4 f4 e4
+    ( d4 ) \break | % 8
+    \time 22/4  d4 ( \slurDashed e4 ) ( \slurSolid d4 c4 ) c4 ( f4 ) f4
+    e4 ( f4 ) g4 ( a4 f4 ) \slurDashed g4 ( \slurSolid f4 e4 ) d4 ( e4 )
+    f4 ( e4 f4 ) e4 ( d4 ) \bar "|."
     }
 
 PartPOneVoiceOneLyricsOne =  \lyricmode { "In " __ Co -- "lum " -- "be "
     __ \skip4 spe -- "ci " -- "e " __ spi -- ri -- tus "san " -- \skip4
     "ctus " __ \skip4 \skip4 vi -- "sus " __ \skip4 \skip4 "est. " __ Pa
     -- "ter " -- \skip4 \skip4 na "vix " __ "au " -- "di " -- "ta " __
-    "est " __ "hic " __ est "fi " -- li -- us "me " -- \skip4 \skip4 us
+    "est: " __ "hic " __ est "fi " -- li -- us "me " -- \skip4 \skip4 us
     "di " -- \skip4 "lec " -- \skip4 "tus " __ \skip4 in quo mi -- "chi
     " __ "be " -- \skip4 ne "com " -- \skip4 \skip4 "pla " -- "cu " --
-    \skip4 \skip4 \skip4 "i " __ "ip " -- "sum " __ \skip4 "au " --
+    \skip4 \skip4 \skip4 "i: " __ "ip " -- "sum " __ \skip4 "au " --
     \skip4 \skip4 "di " -- \skip4 "te. " __ Vox "do " -- \skip4 \skip4
     mi -- ni su -- per "a " -- quas "de " -- us ma -- ie -- "sta " --
     "tis " __ "in " -- to -- "nu " -- \skip4 "it " __ do -- "mi " -- nus
     su -- "per " __ \skip4 a -- "quas " __ \skip4 "ma " -- \skip4 "ris.
     " __ \skip4 Pa -- "ter " -- \skip4 \skip4 na "vix " __ "au " -- "di
-    " -- "ta " __ "est " __ "hic " __ est "fi " -- li -- us "me " --
+    " -- "ta " __ "est: " __ "hic " __ est "fi " -- li -- us "me " --
     \skip4 \skip4 us "di " -- \skip4 "lec " -- \skip4 "tus " __ \skip4
     in quo mi -- "chi " __ "be " -- \skip4 ne "com " -- \skip4 \skip4
-    "pla " -- "cu " -- \skip4 \skip4 \skip4 "i " __ "ip " -- "sum " __
+    "pla " -- "cu " -- \skip4 \skip4 \skip4 "i: " __ "ip " -- "sum " __
     \skip4 "au " -- \skip4 \skip4 "di " -- \skip4 "te. " __ }
 
 % The score definition

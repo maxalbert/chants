@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2017-03-20"
+    encodingdate = "2019-05-28"
     copyright = "Copyright © "
     title = "8. Processional Antiphon: Cristus resurgens V. Dicant nunc Iudei"
     }
@@ -32,34 +32,35 @@ PartPOneVoiceOne =  \relative c {
     \slurDashed b4 ) ( \slurSolid a4 g4 ) a4 e4 ( d4 f4 ) d4 ( c4 ) d4 e4
     f4 ( \slurDashed g4 ) ( \slurSolid e4 d4 ) \slurDashed f4 (
     \slurSolid e4 d4 c4 ) d4 \break | % 2
-    \time 81/4  | % 2
+    \time 26/4  | % 2
     d4 ^"R2" e4 ( f4 g4 ) g4 ( e4 ) f4 ( \slurDashed g4 ) ( \slurSolid e4
     d4 ) f4 ( e4 ) e4 ( d4 e4 ) c4 ( d4 e4 ) e4 ( d4 ) d4 ( e4 f4 ) e4 (
-    d4 ) d4 d4 ( e4 ) f4 ( g4 ) g4 ( f4 a4 f4 ) g4 g4 ( e4 ) f4 (
+    d4 ) d4 \break | % 3
+    \time 55/4  d4 ( e4 ) f4 ( g4 ) g4 ( f4 a4 f4 ) g4 g4 ( e4 ) f4 (
     \slurDashed g4 ) ( \slurSolid e4 d4 ) f4 f4 ( e4 ) e4 c4 d4 ( e4 ) d4
     ( e4 f4 ) e4 ( d4 ) d4 d4 ( e4 ) f4 ( g4 ) g4 ( f4 a4 f4 ) g4 ( e4 )
     f4 ( \slurDashed g4 ) ( \slurSolid e4 d4 ) f4 f4 ( e4 ) e4 c4 ( d4 e4
     ) d4 ( f4 ) \slurDashed e4 ( \slurSolid d4 c4 ) d4 \bar "||"
-    \break | % 3
-    \time 68/4  | % 3
+    \break | % 4
+    \time 68/4  | % 4
     f4 ^"V" g4 ( f4 ) e4 ( d4 ) f4 f4 ( e4 ) c4 ( d4 ) d4 ( e4 f4 d4 ) d4
     d4 ( a'4 ) \slurDashed a4 ( \slurSolid g4 f4 ) g4 ( a4 ) a4 ( d,4 )
     f4 ( e4 ) c4 d4 f4 g4 a4 g4 ( f4 ) e4 ( d4 ) f4 ( e4 ) f4 ( g4 f4 )
     e4 ( d4 ) d4 ( c4 ) c4 ( d4 ) d4 ( c4 ) e4 ( f4 e4 ) c4 d4 a'4 ( g4
     ) f4 g4 a4 d,4 f4 g4 ( f4 ) \slurDashed e4 ( \slurSolid d4 c4 ) f4 e4
-    ( d4 ) \break | % 4
+    ( d4 ) \break | % 5
     f4 \sustainOff ( e4 ) f4 ( g4 f4 ) e4 ( d4 ) c4 ( d4 ) d4 d4
     \slurDashed d4 ( \slurSolid c4 b4 a4 ) c4 ( d4 ) d4 ( c4 ) f4 ( e4 )
     f4 ( g4 f4 ) \slurDashed e4 ( \slurSolid d4 c4 ) e4 ( d4 ) f4 g4 ( a4
     ) \slurDashed a4 ( \slurSolid g4 f4 e4 ) \slurDashed g4 ( \slurSolid
     f4 e4 d4 ) c4 d4 a'4 f4 g4 ( a4 ) a4 ( g4 ) e4 ( d4 ) f4 d4 (
     \slurDashed e4 ) ( \slurSolid d4 c4 ) c4 c4 ( d4 ) d4 ( c4 ) f4 ( e4
-    ) f4 ( \slurDashed g4 ) ( \slurSolid f4 e4 ) d4 d4 \bar "||"
-    \break | % 5
-    \time 81/4  | % 5
+    ) f4 ( \slurDashed g4 ) ( \slurSolid f4 e4 ) d4 d4 \break | % 6
+    \time 26/4  | % 6
     d4 ^"R2" e4 ( f4 g4 ) g4 ( e4 ) f4 ( \slurDashed g4 ) ( \slurSolid e4
     d4 ) f4 ( e4 ) e4 ( d4 e4 ) c4 ( d4 e4 ) e4 ( d4 ) d4 ( e4 f4 ) e4 (
-    d4 ) d4 d4 ( e4 ) f4 ( g4 ) g4 ( f4 a4 f4 ) g4 g4 ( e4 ) f4 (
+    d4 ) d4 \break | % 7
+    \time 55/4  d4 ( e4 ) f4 ( g4 ) g4 ( f4 a4 f4 ) g4 g4 ( e4 ) f4 (
     \slurDashed g4 ) ( \slurSolid e4 d4 ) f4 f4 ( e4 ) e4 c4 d4 ( e4 ) d4
     ( e4 f4 ) e4 ( d4 ) d4 d4 ( e4 ) f4 ( g4 ) g4 ( f4 a4 f4 ) g4 ( e4 )
     f4 ( \slurDashed g4 ) ( \slurSolid e4 d4 ) f4 f4 ( e4 ) e4 c4 ( d4 e4
@@ -70,7 +71,7 @@ PartPOneVoiceOneLyricsOne =  \lyricmode { Cri -- "stus " __ "re " --
     "sur " -- \skip4 gens "ex " __ \skip4 "mor " -- "tu " -- is "iam "
     __ \skip4 \skip4 \skip4 "non " __ "mo " -- ri -- "tur " __ \skip4
     \skip4 \skip4 mors "il " -- "li " __ "ul " -- \skip4 "tra " __ "non
-    " __ do -- "na " -- "bi " -- tur "quod " __ \skip4 "e " -- \skip4
+    " __ do -- "na " -- "bi " -- "tur." "quod " __ \skip4 "e " -- \skip4
     "nim " __ \skip4 \skip4 "vi " -- vit "vi " -- \skip4 "vit " __ "de "
     -- o "al " -- \skip4 "le " -- \skip4 \skip4 \skip4 "lu " -- ya "al "
     -- "le " -- "lu " -- "ya." Di -- "cant " __ "nunc " __ \skip4 \skip4

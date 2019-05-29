@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2017-03-20"
+    encodingdate = "2019-05-28"
     copyright = "Copyright © "
     title = "6. Alleluya V. Hic est discipulus"
     }
@@ -32,22 +32,21 @@ PartPOneVoiceOne =  \relative c {
     \slurSolid e4 -"15" d4 ) \slurDashed g4 ( \slurSolid f4 e4 d4 ) \bar
     "||"
     \break | % 2
-    \time 67/4  | % 2
+    \time 73/4  | % 2
     d4 -"V" ( c4 ) d4 ( f4 ) g4 a4 ( g4 ) g4 ( f4 -"20" g4 ) g4 ( f4 )
     \slurDashed f4 ( \slurSolid e4 d4 ) f4 ( d4 -"25" ) d4 d4 ( f4 ) d4
     d4 d4 ( f4 ) f4 -"30" g4 ( a4 \slurDashed f4 ) ( \slurSolid d4 )
     \slurDashed g4 ( \slurSolid f4 e4 c4 ) d4 ( f4 d4 ) f4 f4 ( d4 f4 c4
     -"35" ) c4 d4 c4 d4 -"40" d4 d4 d4 d4 d4 ( c4 d4 c4 d4 a4 ) c4 ( d4
     -"45" ) f4 \slurDashed f4 ( \slurSolid d4 c4 ) d4 ( f4 ) f4 ( g4 ) f4
-    f4 \break | % 3
-    \time 71/4  \slurDashed g4 ( \slurSolid f4 e4 ) f4 ( d4 ) d4 d4 d4 (
-    f4 ) g4 a4 ( g4 ) g4 ( f4 g4 ) g4 ( f4 ) \slurDashed f4 -"60" (
-    \slurSolid e4 d4 ) f4 ( d4 ) c4 ( f4 ) d4 d4 -"65" ( f4 ) f4 g4 ( a4
-    \slurDashed f4 ) ( \slurSolid d4 ) \slurDashed g4 ( \slurSolid f4 e4
-    c4 ) d4 ( f4 -"70" d4 ) f4 f4 ( d4 ) f4 ( c4 ) d4 ( c4 -"75" ) c4 f4
-    f4 f4 f4 f4 f4 ( g4 -"80" ) g4 ( f4 ) g4 ( a4 g4 a4 ) \slurDashed a4
-    ( \slurSolid g4 f4 e4 c4 ) d4 ( e4 ) f4 ( e4 ) e4 -"85" ( d4 ) \bar
-    "||"
+    f4 \slurDashed g4 ( \slurSolid f4 e4 ) f4 ( d4 ) d4 \break | % 3
+    \time 65/4  d4 d4 ( f4 ) g4 a4 ( g4 ) g4 ( f4 g4 ) g4 ( f4 )
+    \slurDashed f4 -"60" ( \slurSolid e4 d4 ) f4 ( d4 ) c4 ( f4 ) d4 d4
+    -"65" ( f4 ) f4 g4 ( a4 \slurDashed f4 ) ( \slurSolid d4 )
+    \slurDashed g4 ( \slurSolid f4 e4 c4 ) d4 ( f4 -"70" d4 ) f4 f4 ( d4
+    ) f4 ( c4 ) d4 ( c4 -"75" ) c4 f4 f4 f4 f4 f4 f4 ( g4 -"80" ) g4 ( f4
+    ) g4 ( a4 g4 a4 ) \slurDashed a4 ( \slurSolid g4 f4 e4 c4 ) d4 ( e4
+    ) f4 ( e4 ) e4 -"85" ( d4 ) \bar "||"
     \break | % 4
     \time 33/4  | % 4
     c4 -"R" d4 d4 f4 g4 g4 f4 f4 ( g4 e4 ) e4 ( d4 ) d4 ( f4 ) g4 ( a4
@@ -61,7 +60,7 @@ PartPOneVoiceOneLyricsOne =  \lyricmode { Al \skip4 le lu \skip4 "ya."
     \skip4 \skip4 Hic \skip4 \skip4 \skip4 \skip4 est \skip4 \skip4 dis
     ci pu lus il \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 le qui tes ti
     mo ni um per \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 hi bet de hi
-    is et sci \skip4 \skip4 \skip4 mus \skip4 \skip4 qui a ve \skip4
+    "is;" et sci \skip4 \skip4 \skip4 mus \skip4 \skip4 qui a ve \skip4
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 rum est tes \skip4 ti mo
     ni um e \skip4 \skip4 "ius." \skip4 \skip4 Al \skip4 le lu \skip4
     "ya." \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4

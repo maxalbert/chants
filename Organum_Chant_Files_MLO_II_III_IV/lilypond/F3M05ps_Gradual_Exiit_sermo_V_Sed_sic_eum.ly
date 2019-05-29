@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2017-03-20"
+    encodingdate = "2019-05-28"
     copyright = "Copyright © "
     title = "5. Gradual: Exiit sermo V. Sed sic eum"
     }
@@ -37,20 +37,20 @@ PartPOneVoiceOne =  \relative f {
     ( g4 a4 \slurDashed g4 ) ( \slurSolid f4 ) e4 ( g4 a4 ) f4 ( a4 g4 a4
     g4 -"40" ) g4 ( f4 ) \bar "||"
     \break | % 2
-    \time 98/4  | % 2
+    \time 64/4  | % 2
     f4 -"V" a4 ( g4 ) g4 ( c4 -"45" ) c4 c4 c4 c4 c4 d4 ( c4 ) c4 ( g4 )
     c4 ( d4 c4 ) d4 ( c4 ) c4 ( g4 ) c4 ( d4 -"55" ) f4 ( g4 \slurDashed
     f4 ) ( \slurSolid d4 ) \slurDashed e4 ( \slurSolid c4 a4 ) c4 ( b4 )
     d4 ( e4 c4 ) \slurDashed e4 ( \slurSolid d4 c4 ) \slurDashed e4
     -"60" ( \slurSolid d4 c4 ) \slurDashed c4 ( \slurSolid b4 a4 ) a4 (
     c4 d4 ) d4 ( c4 ) e4 ( f4 -"65" d4 ) c4 c4 ( a4 ) a4 c4 ( a4 ) c4
-    -"70" c4 ( g4 ) a4 ( f4 ) f4 f4 f4 ( g4 a4 ) ( a4 b4 \slurDashed a4
-    ) ( \slurSolid g4 ) d'4 c4 c4 ( a4 ) bes4 ( a4 bes4 \slurDashed g4 )
-    ( \slurSolid f4 ) a4 -"80" ( bes4 \slurDashed g4 ) ( \slurSolid f4 )
-    a4 ( g4 ) c4 c4 ( a4 -"85" ) f4 ( g4 ) a4 ( g4 ) a4 ( g4 ) g4 ( f4 )
-    \bar "||"
-    \break | % 3
-    \time 87/4  | % 3
+    -"70" c4 ( g4 ) a4 ( f4 ) f4 \break | % 3
+    \time 34/4  f4 f4 ( g4 a4 ) ( a4 b4 \slurDashed a4 ) ( \slurSolid g4
+    ) d'4 c4 c4 ( a4 ) bes4 ( a4 bes4 \slurDashed g4 ) ( \slurSolid f4 )
+    a4 -"80" ( bes4 \slurDashed g4 ) ( \slurSolid f4 ) a4 ( g4 ) c4 c4 (
+    a4 -"85" ) f4 ( g4 ) a4 ( g4 ) a4 ( g4 ) g4 ( f4 ) \bar "||"
+    \break | % 4
+    \time 87/4  | % 4
     f4 -"R" f4 ( g4 ) f4 f4 f4 ( g4 ) f4 f4 g4 ( a4 ) a4 ( f4 )
     \slurDashed g4 ( \slurSolid f4 e4 d4 ) g4 ( e4 ) f4 ( g4 -"15" ) f4
     f4 f4 a4 ( f4 ) g4 ( a4 ) c4 c4 ( d4 c4 d4 -"20" ) c4 ( b4 c4 ) a4 (
@@ -68,11 +68,11 @@ PartPOneVoiceOneLyricsOne =  \lyricmode { Ex \skip4 i it ser mo in ter
     \skip4 "tur." \skip4 \skip4 \skip4 \skip4 \skip4 Sed sic e um vo lo
     ma ne re \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
     \skip4 \skip4 \skip4 \skip4 do nec \skip4 \skip4 \skip4 ve ni \skip4
-    \skip4 \skip4 am tu me que "re." \skip4 \skip4 \skip4 \skip4 \skip4
-    \skip4 \skip4 \skip4 \skip4 \skip4 Ex \skip4 i it ser mo in ter fra
-    \skip4 \skip4 \skip4 tres quod dis ci \skip4 \skip4 \skip4 pu lus il
-    \skip4 \skip4 le non \skip4 \skip4 \skip4 \skip4 \skip4 mo ri \skip4
-    "tur." \skip4 \skip4 \skip4 \skip4 \skip4 }
+    \skip4 \skip4 "am:" tu me que "re." \skip4 \skip4 \skip4 \skip4
+    \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 Ex \skip4 i it ser mo in
+    ter fra \skip4 \skip4 \skip4 tres quod dis ci \skip4 \skip4 \skip4
+    pu lus il \skip4 \skip4 le non \skip4 \skip4 \skip4 \skip4 \skip4 mo
+    ri \skip4 "tur." \skip4 \skip4 \skip4 \skip4 \skip4 }
 
 % The score definition
 \score {

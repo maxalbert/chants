@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2017-03-20"
+    encodingdate = "2019-05-28"
     copyright = "Copyright © "
     title = "20. Alleluya V. Angelus domini"
     }
@@ -31,18 +31,19 @@ PartPOneVoiceOne =  \relative c {
     a4 g4 ) f4 ( g4 f4 ) d4 ( e4 -"10" d4 ) d4 ( c4 ) c4 ( d4 ) e4 ( f4
     ) g4 ( a4 ) b4 ( a4 ) a4 -"15" ( g4 ) \bar "||"
     \break | % 2
-    \time 100/4  | % 2
+    \time 31/4  | % 2
     c,4 -"V" ( d4 ) e4 ( f4 g4 ) g4 f4 ( e4 ) f4 -"20" ( g4 f4 ) g4 g4 g4
     ( a4 g4 c4 \slurDashed b4 ) ( \slurSolid a4 g4 ) e4 -"25" ( f4 g4 )
     g4 \slurDashed g4 ( \slurSolid f4 d4 ) \slurDashed e4 ( \slurSolid d4
-    c4 ) c4 c4 d4 -"30" e4 ( f4 ) g4 ( a4 ) a4 ( g4 ) f4 ( g4 -"35" ) g4
-    g4 g4 ( a4 g4 ) f4 ( g4 f4 ) d4 ( e4 d4 ) d4 -"40" ( c4 ) c4 c4 ( d4
-    ) e4 ( f4 ) g4 ( a4 ) a4 ( g4 ) f4 ( g4 ) g4 g4 f4 d4 e4 ( f4 g4 ) g4
-    ( f4 ) a4 ( g4 ) f4 -"55" ( g4 ) g4 g4 ( a4 g4 ) f4 ( g4 f4 ) d4 ( f4
-    d4 ) d4 ( c4 ) c4 ( d4 ) e4 -"60" ( f4 ) g4 ( a4 ) b4 ( a4 ) a4 ( g4
-    ) \bar "||"
-    \break | % 3
-    \time 32/4  | % 3
+    c4 ) c4 \break | % 3
+    \time 69/4  c4 d4 -"30" e4 ( f4 ) g4 ( a4 ) a4 ( g4 ) f4 ( g4 -"35"
+    ) g4 g4 g4 ( a4 g4 ) f4 ( g4 f4 ) d4 ( e4 d4 ) d4 -"40" ( c4 ) c4 c4
+    ( d4 ) e4 ( f4 ) g4 ( a4 ) a4 ( g4 ) f4 ( g4 ) g4 g4 f4 d4 e4 ( f4 g4
+    ) g4 ( f4 ) a4 ( g4 ) f4 -"55" ( g4 ) g4 g4 ( a4 g4 ) f4 ( g4 f4 ) d4
+    ( f4 d4 ) d4 ( c4 ) c4 ( d4 ) e4 -"60" ( f4 ) g4 ( a4 ) b4 ( a4 ) a4
+    ( g4 ) \bar "||"
+    \break | % 4
+    \time 32/4  | % 4
     c,4 -"R" ( d4 ) e4 ( f4 ) g4 ( a4 ) a4 ( g4 ) f4 g4 g4 \breathe g4 (
     a4 g4 ) f4 ( g4 f4 ) d4 ( e4 -"10" d4 ) d4 ( c4 ) c4 ( d4 ) e4 ( f4
     ) g4 ( a4 ) b4 ( a4 ) a4 -"15" ( g4 ) \bar "|."
@@ -50,11 +51,12 @@ PartPOneVoiceOne =  \relative c {
 
 PartPOneVoiceOneLyricsOne =  \lyricmode { Al le lu \skip4 \skip4 \skip4
     ya \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 An
-    ge lus Do mi ni des cen \skip4 dit de ce lo et ac ce \skip4 \skip4
-    dens \skip4 re vol \skip4 \skip4 \skip4 vit la \skip4 \skip4 \skip4
-    pi dem et \skip4 se de bat su per e um \skip4 \skip4 \skip4 \skip4
-    \skip4 \skip4 \skip4 \skip4 Al le lu \skip4 \skip4 \skip4 ya \skip4
-    \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 }
+    ge lus Do mi ni des cen \skip4 dit de ce "lo:" et ac ce \skip4
+    \skip4 dens \skip4 re vol \skip4 \skip4 \skip4 vit la \skip4 \skip4
+    \skip4 pi dem et \skip4 se de bat su per e "um." \skip4 \skip4
+    \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 Al le lu \skip4 \skip4
+    \skip4 ya \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
+    \skip4 }
 
 % The score definition
 \score {

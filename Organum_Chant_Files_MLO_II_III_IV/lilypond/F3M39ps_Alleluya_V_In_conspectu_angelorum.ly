@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2018-05-13"
+    encodingdate = "2019-05-28"
     copyright = "Copyright © "
     title = "39. Alleluya V. In conspectu angelorum"
     }

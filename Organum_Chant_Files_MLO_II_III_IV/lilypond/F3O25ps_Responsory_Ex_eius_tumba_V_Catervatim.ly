@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2017-03-20"
+    encodingdate = "2019-05-28"
     copyright = "Copyright © "
     title = "25. Responsory: Ex eius tumba V. Catervatim"
     }
@@ -26,85 +26,88 @@
         }
     }
 PartPOneVoiceOne =  \relative d {
-    \clef "treble_8" \key c \major \time 92/4 | % 1
+    \clef "treble_8" \key c \major \time 48/4 | % 1
     d4 -"R1" c4 ( d4 ) d4 d4 ( c4 ) d4 ( f4 d4 ) \slurDashed e4 (
     \slurSolid d4 c4 ) d4 ( c4 ) f4 ( e4 ) g4 ( a4 ) d,4 -"10" ( c4 ) d4
     ( e4 ) f4 ( e4 f4 ) e4 ( d4 ) d4 ( a'4 bes4 ) a4 a4 \slurDashed a4 (
     \slurSolid g4 f4 ) g4 ( f4 ) g4 ( a4 ) d,4 -"20" ( c4 ) d4 ( e4 ) f4
-    ( e4 f4 ) e4 ( d4 ) c4 d4 ( f4 ) f4 f4 ( g4 f4 ) f4 f4 ( g4 a4 g4 )
-    a4 -"30" \slurDashed a4 ( \slurSolid g4 f4 ) g4 d4 d4 ( c4 ) d4 ( f4
-    ) e4 ( f4 d4 ) e4 ( d4 ) d4 d4 c4 -"40" d4 ( f4 ) f4 f4 ( g4 f4 ) f4
-    f4 ( e4 f4 d4 ) c4 ( d4 ) d4 \break | % 2
-    \time 54/4  | % 2
+    ( e4 f4 ) e4 ( d4 ) \break | % 2
+    \time 44/4  c4 d4 ( f4 ) f4 f4 ( g4 f4 ) f4 f4 ( g4 a4 g4 ) a4 -"30"
+    \slurDashed a4 ( \slurSolid g4 f4 ) g4 d4 d4 ( c4 ) d4 ( f4 ) e4 ( f4
+    d4 ) e4 ( d4 ) d4 d4 c4 -"40" d4 ( f4 ) f4 f4 ( g4 f4 ) f4 f4 ( e4 f4
+    d4 ) c4 ( d4 ) d4 \break | % 3
+    \time 54/4  | % 3
     d4 -"R2" ( a'4 ) \slurDashed a4 ( \slurSolid g4 f4 ) g4 -"50" ( a4 )
     g4 ( a4 ) a4 ( c4 ) \slurDashed c4 ( \slurSolid b4 g4 f4 ) a4 ( g4 )
     a4 ( bes4 ) a4 d,4 ( a'4 ) \slurDashed c4 ( \slurSolid bes4 g4 f4 )
     a4 c4 -"60" ( \slurDashed d4 ) ( \slurSolid c4 a4 ) \slurDashed bes4
     ( \slurSolid g4 f4 ) a4 g4 ( a4 ) d,4 ( a'4 ) \slurDashed c4 (
     \slurSolid bes4 a4 f4 ) a4 c4 ( \slurDashed d4 ) ( \slurSolid c4 a4
-    ) \slurDashed bes4 ( \slurSolid g4 f4 ) g4 ( f4 a4 ) | % 3
-    \time 17/4  | % 3
+    ) \slurDashed bes4 ( \slurSolid g4 f4 ) g4 ( f4 a4 ) | % 4
+    \time 17/4  | % 4
     \slurDashed g4 -"70" -"(R3)" ( \slurSolid f4 e4 ) \slurDashed f4 (
     \slurSolid e4 d4 ) e4 ( d4 ) c4 ( d4 ) d4 ( e4 ) f4 ( e4 f4 ) e4 ( d4
     ) \bar "||"
-    \break | % 4
-    \time 57/4  | % 4
+    \break | % 5
+    \time 57/4  | % 5
     a'4 -"V" a4 a4 a4 ( g4 \slurDashed a4 ) ( \slurSolid g4 f4 ) a4 ( f4
     ) g4 ( a4 ) g4 ( a4 ) a4 ( bes4 a4 ) a4 a4 -"10" ( c4 d4 ) c4 ( b4 )
     g4 ( f4 ) g4 ( a4 ) g4 ( a4 ) a4 ( bes4 a4 ) a4 g4 ( f4 ) g4 ( a4 )
     a4 a4 -"20" ( g4 ) a4 ( b4 ) a4 a4 ( g4 \slurDashed a4 ) (
     \slurSolid g4 f4 e4 ) f4 ( g4 ) e4 ( d4 f4 ) e4 ( d4 ) d4 \bar "||"
-    \break | % 5
-    \time 54/4  | % 5
+    \break | % 6
+    \time 54/4  | % 6
     d4 -"R2" ( a'4 ) \slurDashed a4 ( \slurSolid g4 f4 ) g4 ( a4 ) g4 (
     a4 ) a4 ( c4 ) \slurDashed c4 ( \slurSolid b4 g4 f4 ) a4 ( g4 ) a4 (
     bes4 ) a4 d,4 ( a'4 ) \slurDashed c4 ( \slurSolid bes4 g4 f4 ) a4 c4
     ( \slurDashed d4 ) ( \slurSolid c4 a4 ) \slurDashed bes4 (
     \slurSolid g4 f4 ) a4 g4 ( a4 ) d,4 ( a'4 ) \slurDashed c4 (
     \slurSolid bes4 a4 f4 ) a4 c4 ( \slurDashed d4 ) ( \slurSolid c4 a4
-    ) \slurDashed bes4 ( \slurSolid g4 f4 ) g4 ( f4 a4 ) | % 6
-    \time 17/4  | % 6
+    ) \slurDashed bes4 ( \slurSolid g4 f4 ) g4 ( f4 a4 ) | % 7
+    \time 17/4  | % 7
     \slurDashed g4 -"(R3)" ( \slurSolid f4 e4 ) \slurDashed f4 (
     \slurSolid e4 d4 ) e4 ( d4 ) c4 ( d4 ) d4 ( e4 ) f4 ( e4 f4 ) e4 ( d4
     ) \bar "||"
-    \break | % 7
-    \time 34/4  | % 7
+    \break | % 8
+    \time 34/4  | % 8
     a'4 -"D" a4 a4 ( g4 \slurDashed a4 ) ( \slurSolid g4 f4 ) a4 ( f4 )
     g4 ( a4 ) g4 ( a4 ) a4 a4 ( bes4 a4 ) a4 a4 -"10" a4 a4 ( g4
     \slurDashed a4 ) ( \slurSolid g4 f4 e4 ) f4 ( g4 ) e4 ( d4 f4 ) e4 (
     d4 ) d4 \bar "||"
-    \break | % 8
-    \time 54/4  | % 8
+    \break | % 9
+    \time 54/4  | % 9
     d4 -"R2" ( a'4 ) \slurDashed a4 ( \slurSolid g4 f4 ) g4 ( a4 ) g4 (
     a4 ) a4 ( c4 ) \slurDashed c4 ( \slurSolid b4 g4 f4 ) a4 ( g4 ) a4 (
     bes4 ) a4 d,4 ( a'4 ) \slurDashed c4 ( \slurSolid bes4 g4 f4 ) a4 c4
     ( \slurDashed d4 ) ( \slurSolid c4 a4 ) \slurDashed bes4 (
     \slurSolid g4 f4 ) a4 g4 ( a4 ) d,4 ( a'4 ) \slurDashed c4 (
     \slurSolid bes4 a4 f4 ) a4 c4 ( \slurDashed d4 ) ( \slurSolid c4 a4
-    ) \slurDashed bes4 ( \slurSolid g4 f4 ) g4 ( f4 a4 ) | % 9
-    \time 17/4  | % 9
+    ) \slurDashed bes4 ( \slurSolid g4 f4 ) g4 ( f4 a4 ) |
+    \barNumberCheck #10
+    \time 17/4  | \barNumberCheck #10
     \slurDashed g4 -"(R3)" ( \slurSolid f4 e4 ) \slurDashed f4 (
     \slurSolid e4 d4 ) e4 ( d4 ) c4 ( d4 ) d4 ( e4 ) f4 ( e4 f4 ) e4 ( d4
-    ) \break | \barNumberCheck #10
-    \time 15/4  | \barNumberCheck #10
+    ) \bar "||"
+    \break | % 11
+    \time 15/4  | % 11
     d4 -"Prosa" a'4 a4 g4 f4 e4 g4 a4 d,4 f4 -"10" e4 d4 c4 d4 d4 \bar
     "||"
     d4 a'4 a4 g4 f4 -"20" e4 g4 a4 d,4 f4 e4 d4 c4 d4 d4 -"30" \bar "||"
-    \break | % 12
+    \break | % 13
     f4 g4 g4 f4 g4 a4 a4 d,4 a'4 bes4 -"30" g4 a4 f4 g4 a4 \bar "||"
     f4 g4 g4 f4 g4 -"50" a4 a4 d,4 f4 e4 d4 e4 f4 g4 a4 -"60" \bar "||"
-    \break | % 14
+    \break | % 15
     \time 16/4  a4 bes4 a4 ( g4 ) f4 g4 f4 e4 d4 e4 f4 -"70" d4 e4 c4 d4
     d4 \bar "||"
     a'4 bes4 a4 ( g4 ) f4 g4 -"80" f4 e4 d4 e4 f4 d4 e4 c4 d4 d4 -"90"
     \bar "||"
-    \break | % 16
+    \break | % 17
     a'4 c4 d4 a4 d4 c4 bes4 ( a4 ) g4 bes4 c4 -"100" a4 b4 g4 a4 a4 \bar
     "||"
     a4 c4 d4 a4 d4 -"110" c4 b4 ( a4 ) g4 b4 c4 a4 b4 g4 a4 a4 -"120"
     \bar "||"
-    \break | % 18
-    \time 17/4  | % 18
+    \break | % 19
+    \time 17/4  | % 19
     \slurDashed g4 -"(R3)" ( \slurSolid f4 e4 ) \slurDashed f4 (
     \slurSolid e4 d4 ) e4 ( d4 ) c4 ( d4 ) d4 ( e4 ) f4 ( e4 f4 ) e4 ( d4
     ) \bar "|."
@@ -113,7 +116,7 @@ PartPOneVoiceOne =  \relative d {
 PartPOneVoiceOneLyricsOne =  \lyricmode { Ex "e " -- ius "tum " -- "ba "
     __ \skip4 \skip4 "mar " -- \skip4 "mo " -- "re " -- \skip4 "a " __
     "sa " -- crum re -- "su " -- "dat " __ \skip4 "o " -- "le " --
-    \skip4 "um " __ quo "li " -- "ni " -- \skip4 ti "sa " -- "nan " --
+    \skip4 "um; " __ quo "li " -- "ni " -- \skip4 ti "sa " -- "nan " --
     \skip4 \skip4 tur "ce " -- \skip4 \skip4 \skip4 ci sur -- dis "au "
     -- "di " -- \skip4 tus "red " -- "di " -- tur "Et " __ "de " -- "bi
     " -- "lis " __ "quis " -- \skip4 \skip4 \skip4 que "sos " -- \skip4

@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2018-05-13"
+    encodingdate = "2019-05-28"
     copyright = "Copyright © "
     title = "41. Gradual: Gloriosus V. Dextera tua domine"
     }
@@ -96,7 +96,7 @@ PartPOneVoiceOneLyricsOne =  \lyricmode { Glo ri o \skip4 sus \skip4
     \skip4 \skip4 ne glo \skip4 ri fi ca ta \skip4 \skip4 \skip4 \skip4
     est \skip4 \skip4 in vir \skip4 tu \skip4 \skip4 \skip4 \skip4
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
-    \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 te \skip4 \skip4 \skip4
+    \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 "te:" \skip4 \skip4 \skip4
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 dex \skip4 te ra \skip4
     \skip4 ma nus \skip4 tu \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4

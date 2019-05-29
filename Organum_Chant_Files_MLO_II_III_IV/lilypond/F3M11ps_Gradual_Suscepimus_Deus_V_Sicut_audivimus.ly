@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2017-03-20"
+    encodingdate = "2019-05-28"
     copyright = "Copyright © "
     title = "11. Gradual: Suscepimus Deus V. Sicut audivimus"
     }
@@ -26,16 +26,16 @@
         }
     }
 PartPOneVoiceOne =  \relative d {
-    \clef "treble_8" \key c \major \time 71/4 | % 1
+    \clef "treble_8" \key c \major \time 59/4 | % 1
     d4 -"R" f4 f4 ( g4 ) f4 f4 g4 ( a4 g4 a4 ) g4 ( f4 ) \slurDashed g4
     ( \slurSolid f4 e4 d4 ) d4 -"10" f4 f4 ( g4 ) f4 f4 ( g4 ) f4 f4
     -"15" f4 f4 \slurDashed f4 ( \slurSolid d4 c4 ) d4 ( f4 ) f4 -"20" a4
     ( g4 a4 f4 g4 f4 ) f4 a4 -"25" ( c4 ) c4 \slurDashed d4 ( \slurSolid
     c4 a4 ) a4 f4 a4 -"30" g4 ( f4 ) g4 ( a4 \slurDashed g4 ) (
-    \slurSolid f4 ) g4 ( a4 g4 ) g4 f4 a4 -"35" g4 c4 c4 b4 ( c4 ) a4 (
-    g4 a4 -"40" g4 ) g4 \break | % 2
-    \time 67/4  f4 f4 ( g4 ) \slurDashed a4 ( \slurSolid g4 f4 ) g4 g4 (
-    f4 ) f4 -"45" f4 ( g4 ) f4 f4 e4 g4 ( a4 g4 -"50" ) \slurDashed a4 (
+    \slurSolid f4 ) g4 ( a4 g4 ) g4 \break | % 2
+    \time 79/4  f4 a4 -"35" g4 c4 c4 b4 ( c4 ) a4 ( g4 a4 -"40" g4 ) g4
+    f4 f4 ( g4 ) \slurDashed a4 ( \slurSolid g4 f4 ) g4 g4 ( f4 ) f4
+    -"45" f4 ( g4 ) f4 f4 e4 g4 ( a4 g4 -"50" ) \slurDashed a4 (
     \slurSolid g4 f4 ) f4 ( e4 ) g4 ( f4 ) e4 ( f4 d4 ) d4 ( c4 ) f4 f4
     ( e4 ) e4 ( g4 ) a4 a4 ( c4 \slurDashed a4 ) ( \slurSolid g4 ) a4 (
     bes4 \slurDashed a4 ) ( \slurSolid g4 ) f4 f4 f4 \slurDashed f4 (
@@ -53,18 +53,17 @@ PartPOneVoiceOne =  \relative d {
     \time 40/4  f,4 f4 f4 f4 f4 -"105" f4 f4 f4 ( g4 ) f4 f4 f4 f4 f4 (
     a4 g4 ) f4 g4 ( a4 ) a4 ( c4 \slurDashed b4 ) ( \slurSolid a4 ) c4 c4
     c4 c4 c4 -"120" ( a4 ) b4 ( a4 ) \slurDashed b4 ( \slurSolid g4 f4 )
-    g4 ( a4 \slurDashed g4 ) ( \slurSolid f4 ) a4 ( g4 ) \bar "||"
-    \break | % 5
-    \time 71/4  | % 5
+    g4 ( a4 \slurDashed g4 ) ( \slurSolid f4 ) a4 ( g4 ) \break | % 5
+    \time 59/4  | % 5
     d4 -"R" f4 f4 ( g4 ) f4 f4 g4 ( a4 g4 a4 ) g4 ( f4 ) \slurDashed g4
     ( \slurSolid f4 e4 d4 ) d4 -"10" f4 f4 ( g4 ) f4 f4 ( g4 ) f4 f4
     -"15" f4 f4 \slurDashed f4 ( \slurSolid d4 c4 ) d4 ( f4 ) f4 -"20" a4
     ( g4 a4 f4 g4 f4 ) f4 a4 -"25" ( c4 ) c4 \slurDashed d4 ( \slurSolid
     c4 a4 ) a4 f4 a4 -"30" g4 ( f4 ) g4 ( a4 \slurDashed g4 ) (
-    \slurSolid f4 ) g4 ( a4 g4 ) g4 f4 a4 -"35" g4 c4 c4 b4 ( c4 ) a4 (
-    g4 a4 -"40" g4 ) g4 \break | % 6
-    \time 67/4  f4 f4 ( g4 ) \slurDashed a4 ( \slurSolid g4 f4 ) g4 g4 (
-    f4 ) f4 -"45" f4 ( g4 ) f4 f4 e4 g4 ( a4 g4 -"50" ) \slurDashed a4 (
+    \slurSolid f4 ) g4 ( a4 g4 ) g4 \break | % 6
+    \time 79/4  f4 a4 -"35" g4 c4 c4 b4 ( c4 ) a4 ( g4 a4 -"40" g4 ) g4
+    f4 f4 ( g4 ) \slurDashed a4 ( \slurSolid g4 f4 ) g4 g4 ( f4 ) f4
+    -"45" f4 ( g4 ) f4 f4 e4 g4 ( a4 g4 -"50" ) \slurDashed a4 (
     \slurSolid g4 f4 ) f4 ( e4 ) g4 ( f4 ) e4 ( f4 d4 ) d4 ( c4 ) f4 f4
     ( e4 ) e4 ( g4 ) a4 a4 ( c4 \slurDashed a4 ) ( \slurSolid g4 ) a4 (
     bes4 \slurDashed a4 ) ( \slurSolid g4 ) f4 f4 f4 \slurDashed f4 (
@@ -75,20 +74,20 @@ PartPOneVoiceOne =  \relative d {
 
 PartPOneVoiceOneLyricsOne =  \lyricmode { Sus ce \skip4 pi mus de us
     \skip4 mi se \skip4 ri cor di am tu \skip4 \skip4 \skip4 \skip4
-    \skip4 am in me di o tem pli tu \skip4 \skip4 i se cun \skip4 dum no
-    men tu um do mi \skip4 \skip4 ne i \skip4 ta et \skip4 laus \skip4
-    tu \skip4 \skip4 a in \skip4 fi nes \skip4 \skip4 ter re \skip4
-    \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 Si cut au
-    \skip4 di vi mus \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 i
-    ta \skip4 \skip4 \skip4 \skip4 et vi di mus \skip4 \skip4 \skip4
-    \skip4 \skip4 \skip4 \skip4 in ci vi ta te de i nos tri in mon te
-    sanc \skip4 to \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
-    \skip4 \skip4 \skip4 Sus ce \skip4 pi mus de us \skip4 mi se \skip4
-    ri cor di am tu \skip4 \skip4 \skip4 \skip4 \skip4 am in me di o tem
-    pli tu \skip4 \skip4 i se cun \skip4 dum no men tu um do mi \skip4
-    \skip4 ne i \skip4 ta et \skip4 laus \skip4 tu \skip4 \skip4 a in
-    \skip4 fi nes \skip4 \skip4 ter re \skip4 \skip4 \skip4 \skip4
-    \skip4 \skip4 \skip4 \skip4 \skip4 }
+    \skip4 am in me di o tem pli tu \skip4 \skip4 "i:" se cun \skip4 dum
+    no men tu um do mi \skip4 \skip4 ne i \skip4 ta et \skip4 laus
+    \skip4 tu \skip4 \skip4 a in \skip4 fi nes \skip4 \skip4 ter re
+    \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 Si
+    cut au \skip4 di vi mus \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
+    \skip4 i ta \skip4 \skip4 \skip4 \skip4 et vi di mus \skip4 \skip4
+    \skip4 \skip4 \skip4 \skip4 \skip4 in ci vi ta te de i nos tri in
+    mon te sanc \skip4 to \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
+    \skip4 \skip4 \skip4 \skip4 Sus ce \skip4 pi mus de us \skip4 mi se
+    \skip4 ri cor di am tu \skip4 \skip4 \skip4 \skip4 \skip4 am in me
+    di o tem pli tu \skip4 \skip4 "i:" se cun \skip4 dum no men tu um do
+    mi \skip4 \skip4 ne i \skip4 ta et \skip4 laus \skip4 tu \skip4
+    \skip4 a in \skip4 fi nes \skip4 \skip4 ter re \skip4 \skip4 \skip4
+    \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 }
 PartPOneVoiceOneLyricsTwo =  \lyricmode { \skip4 \skip4 \skip4 \skip4
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4

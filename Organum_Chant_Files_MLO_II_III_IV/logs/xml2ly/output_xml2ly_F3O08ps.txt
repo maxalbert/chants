@@ -7,7 +7,7 @@ musicxml2ly: warning: Cannot have a slur inside another slur
 
   In: <note >
 
-  In: <measure number=3>
+  In: <measure number=4>
 
   In: <part id=P1>
 
@@ -20,7 +20,7 @@ musicxml2ly: warning: Cannot have two simultaneous (closing) slurs
 
   In: <note >
 
-  In: <measure number=3>
+  In: <measure number=4>
 
   In: <part id=P1>
 

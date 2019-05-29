@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2017-03-20"
+    encodingdate = "2019-05-28"
     copyright = "Copyright © "
     title = "24. Alleluya V. Non vos relinquam"
     }
@@ -35,28 +35,28 @@ PartPOneVoiceOne =  \relative d {
     \slurSolid e4 c4 ) e4 ( \slurDashed g4 ) ( \slurSolid f4 e4 d4 ) f4
     f4 ( d4 ) \bar "||"
     \break | % 2
-    \time 70/4  | % 2
+    \time 33/4  | % 2
     d4 -"V" e4 ( f4 e4 ) d4 ( c4 ) d4 d4 ( c4 ) f4 ( g4 a4 ) \slurDashed
     a4 -"30" ( \slurSolid g4 f4 ) g4 ( a4 ) b4 ( a4 ) a4 g4 -"35" g4 ( a4
-    ) a4 a4 ( g4 a4 ) f4 ( g4 a4 ) a4 ( b4 a4 -"40" ) d,4 ( a'4 )
-    \slurDashed bes4 ( \slurSolid a4 g4 ) \slurDashed a4 ( \slurSolid g4
-    f4 ) g4 ( f4 ) g4 ( a4 ) a4 ( b4 \breathe a4 ) f4 ( a4 ) a4 a4 ( g4
-    ) f4 ( g4 ) \slurDashed g4 ( \slurSolid f4 e4 d4 ) \slurDashed f4
-    -"50" ( \slurSolid e4 d4 ) d4 ( c4 ) f4 ( a4 f4 g4 ) g4 -"55" f4
-    \break | % 3
-    \time 93/4  g4 ( a4 g4 ) a4 ( g4 ) a4 ( f4 ) a4 ( bes4 \slurDashed g4
-    ) ( \slurSolid f4 ) e4 -"60" ( g4 ) a4 ( f4 ) g4 ( e4 ) f4 ( d4 ) c4
-    ( f4 ) f4 ( d4 ) c4 -"65" ( f4 ) f4 f4 ( a4 ) \slurDashed bes4 (
-    \slurSolid a4 g4 ) \slurDashed a4 -"70" ( \slurSolid g4 f4 ) g4 ( f4
-    ) g4 ( a4 ) a4 ( b4 a4 ) d,4 e4 ( f4 -"75" e4 ) d4 d4 ( c4 ) f4 ( g4
-    \slurDashed a4 ) ( \slurSolid g4 f4 ) g4 ( a4 ) b4 -"80" ( a4 ) a4 g4
-    g4 ( a4 ) d,4 ( a'4 ) \slurDashed b4 ( \slurSolid a4 g4 )
-    \slurDashed a4 ( \slurSolid g4 -"85" f4 ) g4 ( f4 ) g4 ( a4 ) d,4 (
-    a'4 ) \slurDashed bes4 ( \slurSolid a4 g4 ) g4 ( e4 -"90" ) g4 ( a4
-    f4 ) e4 c4 f4 ( \slurDashed g4 ) ( \slurSolid f4 e4 d4 ) f4 f4 ( d4
-    ) \bar "||"
-    \break | % 4
-    \time 55/4  | % 4
+    ) a4 a4 ( g4 a4 ) f4 ( g4 a4 ) a4 ( b4 a4 -"40" ) \break | % 3
+    \time 36/4  d,4 ( a'4 ) \slurDashed bes4 ( \slurSolid a4 g4 )
+    \slurDashed a4 ( \slurSolid g4 f4 ) g4 ( f4 ) g4 ( a4 ) a4 ( b4
+    \breathe a4 ) f4 ( a4 ) a4 a4 ( g4 ) f4 ( g4 ) \slurDashed g4 (
+    \slurSolid f4 e4 d4 ) \slurDashed f4 -"50" ( \slurSolid e4 d4 ) d4 (
+    c4 ) f4 ( a4 f4 g4 ) g4 -"55" \break | % 4
+    \time 94/4  f4 g4 ( a4 g4 ) a4 ( g4 ) a4 ( f4 ) a4 ( bes4
+    \slurDashed g4 ) ( \slurSolid f4 ) e4 -"60" ( g4 ) a4 ( f4 ) g4 ( e4
+    ) f4 ( d4 ) c4 ( f4 ) f4 ( d4 ) c4 -"65" ( f4 ) f4 f4 ( a4 )
+    \slurDashed bes4 ( \slurSolid a4 g4 ) \slurDashed a4 -"70" (
+    \slurSolid g4 f4 ) g4 ( f4 ) g4 ( a4 ) a4 ( b4 a4 ) d,4 e4 ( f4
+    -"75" e4 ) d4 d4 ( c4 ) f4 ( g4 \slurDashed a4 ) ( \slurSolid g4 f4
+    ) g4 ( a4 ) b4 -"80" ( a4 ) a4 g4 g4 ( a4 ) d,4 ( a'4 ) \slurDashed
+    b4 ( \slurSolid a4 g4 ) \slurDashed a4 ( \slurSolid g4 -"85" f4 ) g4
+    ( f4 ) g4 ( a4 ) d,4 ( a'4 ) \slurDashed bes4 ( \slurSolid a4 g4 ) g4
+    ( e4 -"90" ) g4 ( a4 f4 ) e4 c4 f4 ( \slurDashed g4 ) ( \slurSolid f4
+    e4 d4 ) f4 f4 ( d4 ) \bar "||"
+    \break | % 5
+    \time 55/4  | % 5
     d4 -"R" e4 ( f4 e4 ) d4 ( c4 ) d4 d4 ( c4 ) f4 ( g4 \slurDashed a4 )
     ( \slurSolid g4 f4 ) g4 ( a4 ) b4 ( a4 ) a4 g4 a4 -"10" d,4 ( a'4 )
     \slurDashed b4 ( \slurSolid a4 g4 ) \slurDashed a4 ( \slurSolid g4 f4

@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2017-03-20"
+    encodingdate = "2019-05-28"
     copyright = "Copyright © "
     title = "19. Alleluya V. In die resurrectionis"
     }
@@ -54,7 +54,7 @@ PartPOneVoiceOneLyricsOne =  \lyricmode { Al le lu \skip4 \skip4 \skip4
     \skip4 ya \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 In
     di e \skip4 \skip4 re sur rec ti \skip4 o nis me e di cit Do mi
     \skip4 nus pre \skip4 ce \skip4 \skip4 \skip4 \skip4 dam \skip4 vos
-    in Ga li le am \skip4 \skip4 \skip4 \skip4 \skip4 Al le lu \skip4
+    in Ga li le "am." \skip4 \skip4 \skip4 \skip4 \skip4 Al le lu \skip4
     \skip4 \skip4 \skip4 ya \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
     \skip4 \skip4 }
 

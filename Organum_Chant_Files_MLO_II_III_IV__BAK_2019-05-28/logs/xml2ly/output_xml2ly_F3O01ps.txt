@@ -1,0 +1,29 @@
+musicxml2ly: Reading MusicXML from musicxml/F3O01ps_Responsory_Iudea_et_Ierusalem_V_Constantes.xml ...
+musicxml2ly: Converting to LilyPond expressions...
+musicxml2ly: warning: Cannot have a slur inside another slur
+  In: <slur type=start number=2>
+
+  In: <notations >
+
+  In: <note >
+
+  In: <measure number=7>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.0>
+
+musicxml2ly: warning: Cannot have two simultaneous (closing) slurs
+  In: <slur type=stop number=1>
+
+  In: <notations >
+
+  In: <note >
+
+  In: <measure number=7>
+
+  In: <part id=P1>
+
+  In: <score-partwise version=3.0>
+
+musicxml2ly: Output to `F3O01ps_Responsory_Iudea_et_Ierusalem_V_Constantes.ly'

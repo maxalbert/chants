@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2017-03-20"
+    encodingdate = "2019-05-28"
     title = "15. Reponsory: Petre amas me V. Symon Iohannis"
     }
 
@@ -25,34 +25,35 @@
         }
     }
 PartPOneVoiceOne =  \relative f {
-    \clef "treble_8" \key c \major \time 62/4 | % 1
+    \clef "treble_8" \key c \major \time 24/4 | % 1
     f4 -"R1" e4 f4 g4 a4 \slurDashed g4 ( \slurSolid e4 ) \slurDashed g4
     ( \slurSolid f4 e4 d4 c4 ) d4 f4 f4 d4 g4 e4 f4 g4 a4 -"10"
-    \slurDashed g4 ( \slurSolid f4 e4 ) d4 a'4 a4 g4 g4 a4 b4 c4
-    \slurDashed b4 ( \slurSolid a4 ) a4 g4 \slurDashed a4 ( \slurSolid g4
-    f4 e4 ) f4 f4 e4 e4 f4 f4 -"20" e4 g4 \slurDashed a4 ( \slurSolid g4
-    e4 ) \slurDashed f4 ( \slurSolid e4 d4 ) g4 e4 f4 g4 a4 \slurDashed
-    g4 ( \slurSolid f4 e4 ) \break | % 2
-    \time 36/4  | % 2
+    \slurDashed g4 ( \slurSolid f4 e4 ) \break | % 2
+    \time 38/4  d4 a'4 a4 g4 g4 a4 b4 c4 \slurDashed b4 ( \slurSolid a4
+    ) a4 g4 \slurDashed a4 ( \slurSolid g4 f4 e4 ) f4 f4 e4 e4 f4 f4
+    -"20" e4 g4 \slurDashed a4 ( \slurSolid g4 e4 ) \slurDashed f4 (
+    \slurSolid e4 d4 ) g4 e4 f4 g4 a4 \slurDashed g4 ( \slurSolid f4 e4
+    ) \break | % 3
+    \time 36/4  | % 3
     a4 -"R2" a4 g4 \slurDashed a4 -"30" ( \slurSolid g4 e4 ) g4 e4 f4 g4
     \slurDashed f4 ( \slurSolid e4 ) \slurDashed f4 ( \slurSolid e4 d4 )
     e4 f4 e4 f4 e4 d4 d4 f4 a4 g4 g4 f4 a4 -"40" g4 a4 e4 g4 f4 f4 f4 e4
     \bar "||"
-    \break | % 3
-    \time 55/4  | % 3
+    \break | % 4
+    \time 55/4  | % 4
     a4 -"V" g4 f4 g4 a4 g4 \slurDashed a4 ( \slurSolid g4 f4 e4 ) f4 e4
     g4 g4 a4 g4 g4 -"50" g4 f4 g4 a4 g4 f4 e4 f4 g4 f4 f4 e4 f4 d4 f4 e4
     -"60" f4 f4 f4 e4 f4 f4 f4 g4 \slurDashed a4 ( \slurSolid g4 e4 )
     \slurDashed f4 ( \slurSolid e4 d4 ) g4 e4 f4 g4 a4 \slurDashed g4
     -"70" ( \slurSolid f4 e4 ) \bar "||"
-    \break | % 4
-    \time 36/4  | % 4
+    \break | % 5
+    \time 36/4  | % 5
     a4 -"R2" a4 g4 \slurDashed a4 -"30" ( \slurSolid g4 e4 ) g4 e4 f4 g4
     \slurDashed f4 ( \slurSolid e4 ) \slurDashed f4 ( \slurSolid e4 d4 )
     e4 f4 e4 f4 e4 d4 d4 f4 a4 g4 g4 f4 a4 -"40" g4 a4 e4 g4 f4 f4 f4 e4
     \bar "||"
-    \break | % 5
-    \time 47/4  | % 5
+    \break | % 6
+    \time 47/4  | % 6
     a4 -"D" g4 a4 g4 f4 g4 a4 g4 \slurDashed a4 ( \slurSolid g4 f4 e4 )
     f4 e4 g4 -"80" f4 g4 a4 g4 f4 f4 e4 f4 g4 f4 f4 e4 f4 d4 f4 f4 -"90"
     e4 g4 \slurDashed a4 ( \slurSolid g4 e4 ) \slurDashed f4 (
@@ -62,9 +63,9 @@ PartPOneVoiceOne =  \relative f {
 
 PartPOneVoiceOneLyricsOne =  \lyricmode { Pe tre \skip4 \skip4 \skip4
     \skip4 \skip4 \skip4 a mas \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
-    me tu \skip4 scis \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 do mi
+    "me?" tu \skip4 scis \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 do mi
     \skip4 \skip4 ne \skip4 quid \skip4 \skip4 a \skip4 \skip4 \skip4 mo
-    \skip4 \skip4 \skip4 \skip4 te Pas \skip4 \skip4 \skip4 \skip4
+    \skip4 \skip4 \skip4 \skip4 "te." Pas \skip4 \skip4 \skip4 \skip4
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 ce
     \skip4 o \skip4 \skip4 \skip4 ves \skip4 \skip4 \skip4 \skip4 me
     \skip4 \skip4 \skip4 "as." \skip4 Sy mon \skip4 \skip4 \skip4 \skip4

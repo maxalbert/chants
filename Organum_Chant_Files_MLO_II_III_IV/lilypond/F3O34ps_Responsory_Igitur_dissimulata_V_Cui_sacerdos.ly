@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2017-03-20"
+    encodingdate = "2019-05-28"
     copyright = "Copyright © "
     title = "34. Responsory: Igitur dissimulata V. Cui sacerdos"
     }
@@ -26,32 +26,32 @@
         }
     }
 PartPOneVoiceOne =  \relative c {
-    \clef "treble_8" \key c \major \time 80/4 | % 1
+    \clef "treble_8" \key c \major \time 73/4 | % 1
     c4 -"R1" d4 f4 d4 d4 c4 d4 f4 e4 f4 g4 d4 e4 \slurDashed f4 (
     \slurSolid e4 d4 c4 ) d4 -"10" d4 c4 c4 d4 d4 e4 f4 d4 c4 d4 d4
     \slurDashed d4 ( \slurSolid c4 a4 ) c4 d4 f4 d4 d4 -"20" f4 d4 d4 c4
     d4 f4 \slurDashed g4 ( \slurSolid f4 e4 ) f4 g4 f4 g4 g4 f4 f4 f4 e4
     d4 e4 \slurDashed d4 ( \slurSolid c4 ) f4 -"30" d4 e4 f4 e4 d4 e4
-    \slurDashed f4 ( \slurSolid e4 d4 ) e4 e4 d4 d4 d4 c4 \slurDashed d4
-    ( \slurSolid c4 b4 ) c4 d4 \break | % 2
-    \time 72/4  | % 2
-    d4 -"40" ( c4 ) d4 f4 d4 d4 d4 c4 d4 f4 \slurDashed g4 ( \slurSolid
-    f4 e4 ) f4 g4 f4 g4 g4 f4 f4 g4 f4 f4 e4 d4 d4 d4 ( c4 ) a4 c4 d4 f4
-    d4 d4 f4 d4 d4 -"60" c4 d4 f4 e4 f4 \slurDashed a4 ( \slurSolid g4 e4
-    ) f4 d4 c4 d4 d4 c4 d4 f4 f4 -"70" f4 e4 d4 d4 c4 f4 f4 g4
-    \slurDashed a4 ( \slurSolid g4 f4 e4 ) f4 g4 f4 g4 a4 d,4 \break | % 3
-    \time 26/4  | % 3
+    \slurDashed f4 ( \slurSolid e4 d4 ) e4 e4 d4 d4 \break | % 2
+    \time 57/4  d4 c4 \slurDashed d4 ( \slurSolid c4 b4 ) c4 d4 d4 -"40"
+    ( c4 ) d4 f4 d4 d4 d4 c4 d4 f4 \slurDashed g4 ( \slurSolid f4 e4 ) f4
+    g4 f4 g4 g4 f4 f4 g4 f4 f4 e4 d4 d4 d4 ( c4 ) a4 c4 d4 f4 d4 d4 f4 d4
+    d4 -"60" c4 d4 f4 e4 f4 \slurDashed a4 ( \slurSolid g4 e4 ) f4 d4 c4
+    d4 d4 \break | % 3
+    \time 22/4  c4 d4 f4 f4 -"70" f4 e4 d4 d4 c4 f4 f4 g4 \slurDashed a4
+    ( \slurSolid g4 f4 e4 ) f4 g4 f4 g4 a4 d,4 | % 4
+    \time 26/4  | % 4
     c4 -"R2" d4 -"80" f4 g4 d4 e4 \slurDashed f4 ( \slurSolid e4 d4 c4 )
     d4 f4 \slurDashed a4 ( \slurSolid g4 e4 d4 ) f4 f4 \slurDashed f4 (
     \slurSolid e4 d4 c4 ) e4 f4 ( e4 ) d4 -"90" \bar "||"
-    \break | % 4
-    \time 58/4  | % 4
+    \break | % 5
+    \time 58/4  | % 5
     c4 -"V" d4 f4 f4 g4 f4 f4 f4 ( e4 ) f4 g4 f4 e4 d4 f4 d4 -"100" c4 f4
     a4 g4 e4 d4 f4 f4 \slurDashed f4 ( \slurSolid e4 d4 ) c4 d4 d4 e4 f4
     e4 f4 e4 d4 d4 c4 d4 d4 c4 d4 f4 d4 d4 c4 d4 f4 e4 f4 \slurDashed a4
     ( \slurSolid g4 e4 ) f4 d4 c4 -"120" d4 d4 \bar "||"
-    \break | % 5
-    \time 26/4  | % 5
+    \break | % 6
+    \time 26/4  | % 6
     c4 -"R2" d4 f4 g4 d4 e4 \slurDashed f4 ( \slurSolid e4 d4 c4 ) d4 f4
     \slurDashed a4 ( \slurSolid g4 e4 d4 ) f4 f4 \slurDashed f4 (
     \slurSolid e4 d4 c4 ) e4 f4 ( e4 ) d4 \bar "|."
@@ -66,16 +66,16 @@ PartPOneVoiceOneLyricsOne =  \lyricmode { I \skip4 \skip4 gi tur dis si
     in ma \skip4 nu te ne \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
     \skip4 \skip4 bat \skip4 te \skip4 ti \skip4 \skip4 git il lum vo
     \skip4 \skip4 \skip4 cans e \skip4 um ter \skip4 \skip4 \skip4
-    \skip4 \skip4 \skip4 \skip4 \skip4 ci \skip4 o Lu ci \skip4 a \skip4
-    \skip4 ne Lu \skip4 ci a \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
-    \skip4 ne Lu ci a \skip4 ne \skip4 \skip4 \skip4 \skip4 \skip4
-    \skip4 \skip4 \skip4 sur \skip4 "ge." Cu \skip4 i \skip4 \skip4
-    \skip4 sa cer dos \skip4 res \skip4 pon \skip4 dit \skip4 quis
-    \skip4 \skip4 es \skip4 \skip4 \skip4 \skip4 do \skip4 mi \skip4
-    \skip4 \skip4 \skip4 ne \skip4 ac il \skip4 le \skip4 di \skip4 xit
-    ad \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 e \skip4
-    "um." Lu ci a \skip4 ne \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
-    \skip4 \skip4 sur \skip4 "ge." }
+    \skip4 \skip4 \skip4 \skip4 \skip4 ci \skip4 "o:" Lu ci \skip4 a
+    \skip4 \skip4 ne Lu \skip4 ci a \skip4 \skip4 \skip4 \skip4 \skip4
+    \skip4 \skip4 ne Lu ci a \skip4 ne \skip4 \skip4 \skip4 \skip4
+    \skip4 \skip4 \skip4 \skip4 sur \skip4 "ge!" Cu \skip4 i \skip4
+    \skip4 \skip4 sa cer dos \skip4 res \skip4 pon \skip4 dit \skip4
+    quis \skip4 \skip4 es \skip4 \skip4 \skip4 \skip4 do \skip4 mi
+    \skip4 \skip4 \skip4 \skip4 ne \skip4 ac il \skip4 le \skip4 di
+    \skip4 xit ad \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
+    \skip4 e \skip4 "um." Lu ci a \skip4 ne \skip4 \skip4 \skip4 \skip4
+    \skip4 \skip4 \skip4 \skip4 sur \skip4 "ge!" }
 
 % The score definition
 \score {

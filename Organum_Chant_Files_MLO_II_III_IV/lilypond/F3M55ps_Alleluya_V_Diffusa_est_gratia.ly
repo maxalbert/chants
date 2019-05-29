@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2018-05-13"
+    encodingdate = "2019-05-28"
     copyright = "Copyright © "
     title = "55. Alleluya V. Diffusa est gratia"
     }
@@ -33,20 +33,20 @@ PartPOneVoiceOne =  \relative f {
     e4 d4 ) g4 -"15" a4 b4 \slurDashed c4 ( \slurSolid b4 a4 g4 ) a4 b4
     a4 a4 g4 \bar "||"
     \break | % 2
-    \time 114/4  | % 2
+    \time 42/4  | % 2
     a4 -"V" c4 \slurDashed c4 ( \slurSolid b4 a4 -"20" ) c4 g4 a4 g4 g4
     f4 g4 a4 -"25" g4 a4 \slurDashed c4 ( \slurSolid b4 a4 ) c4 g4 a4 g4
     g4 g4 d'4 -"30" ( c4 ) d4 e4 f4 e4 \slurDashed e4 ( \slurSolid d4 c4
-    ) e4 c4 d4 e4 -"35" d4 d4 d4 f4 d4 d4 f4 d4 -"40" f4 d4 d4 d4 f4 d4
-    e4 f4 g4 e4 \slurDashed f4 ( \slurSolid e4 d4 ) \slurDashed e4 (
-    \slurSolid d4 c4 ) d4 d4 e4 f4 -"50" g4 e4 \slurDashed f4 (
-    \slurSolid e4 d4 ) \slurDashed e4 ( \slurSolid d4 c4 ) d4 d4 g,4 d'4
-    -"55" \slurDashed e4 ( \slurSolid d4 c4 ) \slurDashed c4 (
-    \slurSolid b4 a4 g4 ) a4 g4 f4 g4 g4 -"60" a4 a4 g4 g4 f4 g4 a4 f4 g4
-    a4 g4 f4 -"65" a4 \slurDashed c4 ( \slurSolid b4 a4 ) c4 ( b4 ) g4 c4
-    d4 e4 c4 d4 d4 -"70" \bar "||"
-    \break | % 3
-    \time 48/4  | % 3
+    ) e4 c4 d4 e4 -"35" d4 d4 d4 f4 d4 \break | % 3
+    \time 72/4  d4 f4 d4 -"40" f4 d4 d4 d4 f4 d4 e4 f4 g4 e4 \slurDashed
+    f4 ( \slurSolid e4 d4 ) \slurDashed e4 ( \slurSolid d4 c4 ) d4 d4 e4
+    f4 -"50" g4 e4 \slurDashed f4 ( \slurSolid e4 d4 ) \slurDashed e4 (
+    \slurSolid d4 c4 ) d4 d4 g,4 d'4 -"55" \slurDashed e4 ( \slurSolid d4
+    c4 ) \slurDashed c4 ( \slurSolid b4 a4 g4 ) a4 g4 f4 g4 g4 -"60" a4
+    a4 g4 g4 f4 g4 a4 f4 g4 a4 g4 f4 -"65" a4 \slurDashed c4 (
+    \slurSolid b4 a4 ) c4 ( b4 ) g4 c4 d4 e4 c4 d4 d4 -"70" \bar "||"
+    \break | % 4
+    \time 48/4  | % 4
     f,4 -"R" g4 a4 f4 g4 a4 g4 f4 a4 \slurDashed c4 ( \slurSolid b4 a4 )
     c4 ( b4 ) g4 c4 d4 e4 c4 d4 d4 -"10" g,4 a4 \slurDashed g4 (
     \slurSolid f4 ) a4 g4 c4 d4 b4 \slurDashed c4 ( \slurSolid a4 g4 f4
@@ -61,7 +61,7 @@ PartPOneVoiceOneLyricsOne =  \lyricmode { Al le \skip4 \skip4 \skip4
     \skip4 \skip4 \skip4 Dif \skip4 fu \skip4 \skip4 sa \skip4 est gra
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 ti \skip4 a in
     \skip4 la \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 bi \skip4
-    is tu \skip4 is prop \skip4 te \skip4 re a be \skip4 ne di \skip4
+    is tu \skip4 "is:" prop \skip4 te \skip4 re a be \skip4 ne di \skip4
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 xit
     \skip4 te \skip4 de \skip4 \skip4 \skip4 us in e \skip4 \skip4 ter

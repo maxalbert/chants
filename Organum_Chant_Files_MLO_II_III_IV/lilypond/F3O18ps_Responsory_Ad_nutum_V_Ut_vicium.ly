@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2017-03-20"
+    encodingdate = "2019-05-28"
     copyright = "Copyright © "
     title = "18. Responsory: Ad nutum V. Ut vicium"
     }
@@ -82,9 +82,9 @@ PartPOneVoiceOne =  \relative g {
 
 PartPOneVoiceOneLyricsOne =  \lyricmode { "Ad " __ \skip4 \skip4 \skip4
     \skip4 "nu " -- \skip4 tum "do " -- \skip4 mi -- ni "nos " -- "trum
-    " __ di -- "tan " -- \skip4 "tis " __ "ho " -- "no " -- rem "si " --
-    cut "spi " -- "na " __ "ro " -- "sam " __ "ge " -- \skip4 "nu " --
-    "it " __ "Iu " -- \skip4 \skip4 \skip4 a "Ma " -- \skip4 \skip4
+    " __ di -- "tan " -- \skip4 "tis " __ "ho " -- "no " -- "rem." "si "
+    -- cut "spi " -- "na " __ "ro " -- "sam " __ "ge " -- \skip4 "nu "
+    -- "it " __ "Iu " -- \skip4 \skip4 \skip4 a "Ma " -- \skip4 \skip4
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 "ri "
     -- "am." "Ut " __ \skip4 vi -- "ci " -- "um " __ "vir " -- \skip4
     "tus " __ o -- pe -- "ri " -- \skip4 "ret " __ gra -- ti -- "a " __

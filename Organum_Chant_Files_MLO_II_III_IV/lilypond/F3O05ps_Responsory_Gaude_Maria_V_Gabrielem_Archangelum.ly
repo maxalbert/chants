@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2017-03-20"
+    encodingdate = "2019-05-28"
     copyright = "Copyright © "
     title = "5. Responsory: Gaude Maria V. Gabrielem Archangelum"
     }
@@ -26,23 +26,23 @@
         }
     }
 PartPOneVoiceOne =  \relative a {
-    \clef "treble_8" \key c \major \time 79/4 | % 1
+    \clef "treble_8" \key c \major \time 22/4 | % 1
     a4 ^"R1" ( g4 ) c4 d4 ( f4 d4 ) e4 ( f4 e4 ) e4 ( d4 ) e4 ( f4 g4 f4
-    ) e4 ( \slurDashed f4 ) ( \slurSolid e4 d4 c4 ) d4 ( c4 ) c4 d4 d4 (
-    e4 ) f4 ( e4 ) d4 c4 c4 ( d4 ) c4 c4 ( bes4 ) bes4 ( a4 ) c4 bes ?4
-    a4 ( c4 bes ?4 ) bes4 bes4 ( a4 ) a4 ( g4 ) c4 ( d4 ) c4 c4 ( d4 ) e4
-    ( f4 ) e4 e4 ( d4 ) e4 ( f4 g4 f4 ) d4 ( c4 ) c4 d4 c4 ( b4 ) d4 f4
-    ( e4 ) c4 c4 ( d4 ) \slurDashed f4 ( \slurSolid e4 d4 ) e4 ( f4 e4 )
-    \break | % 2
-    \time 68/4  | % 2
+    ) e4 ( \slurDashed f4 ) ( \slurSolid e4 d4 c4 ) d4 ( c4 ) \break | % 2
+    \time 57/4  c4 d4 d4 ( e4 ) f4 ( e4 ) d4 c4 c4 ( d4 ) c4 c4 ( bes4 )
+    bes4 ( a4 ) c4 bes ?4 a4 ( c4 bes ?4 ) bes4 bes4 ( a4 ) a4 ( g4 ) c4
+    ( d4 ) c4 c4 ( d4 ) e4 ( f4 ) e4 e4 ( d4 ) e4 ( f4 g4 f4 ) d4 ( c4 )
+    c4 d4 c4 ( b4 ) d4 f4 ( e4 ) c4 c4 ( d4 ) \slurDashed f4 (
+    \slurSolid e4 d4 ) e4 ( f4 e4 ) \break | % 3
+    \time 68/4  | % 3
     d4 ^"R2" ( c4 ) d4 ( e4 d4 ) c4 c4 ( d4 ) c4 c4 d4 c4 c4 ( b4 ) c4 (
     d4 c4 ) a4 ( c4 ) a4 ( g4 ) g4 ( a4 ) \slurDashed c4 ( \slurSolid b4
     a4 ) c4 g4 ( a4 g4 ) c4 d4 e4 ( f4 e4 ) d4 ( c4 ) d4 ( e4 d4 ) c4 c4
     ( b4 ) b4 ( a4 ) c4 c4 c4 ( e4 ) \slurDashed f4 ( \slurSolid e4 d4 )
     \slurDashed d4 ( \slurSolid c4 b4 ) d4 ( e4 ) d4 ( e4 d4 ) c4 ( d4 )
     \slurDashed e4 ( \slurSolid d4 c4 ) d4 d4 ( c4 ) \bar "||"
-    \break | % 3
-    \time 122/4  | % 3
+    \break | % 4
+    \time 122/4  | % 4
     c4 ^"V" ( d4 ) c4 c4 ( d4 ) e4 ( f4 ) e4 e4 ( d4 ) d4 ( g4 ) g4 g4
     \slurDashed g4 ( \slurSolid f4 e4 ) f4 d4 e4 d4 c4 c4 c4 ( b4 ) d4 d4
     ( e4 d4 ) c4 c4 ( d4 ) e4 ( \slurDashed f4 ) ( \slurSolid e4 d4 ) e4
@@ -53,50 +53,50 @@ PartPOneVoiceOne =  \relative a {
     ( e4 d4 ) c4 d4 ( f4 d4 ) e4 ( f4 e4 ) e4 d4 c4 ( b4 ) d4 d4 ( e4 d4
     ) c4 c4 ( d4 ) \slurDashed f4 ( \slurSolid e4 d4 ) e4 ( f4 e4 ) \bar
     "||"
-    \break | % 4
-    \time 68/4  | % 4
+    \break | % 5
+    \time 68/4  | % 5
     d4 ^"R2" ( c4 ) d4 ( e4 d4 ) c4 c4 ( d4 ) c4 c4 d4 c4 c4 ( b4 ) c4 (
     d4 c4 ) a4 ( c4 ) a4 ( g4 ) g4 ( a4 ) \slurDashed c4 ( \slurSolid b4
     a4 ) c4 g4 ( a4 g4 ) c4 d4 e4 ( f4 e4 ) d4 ( c4 ) d4 ( e4 d4 ) c4 c4
     ( b4 ) b4 ( a4 ) c4 c4 c4 ( e4 ) \slurDashed f4 ( \slurSolid e4 d4 )
     \slurDashed d4 ( \slurSolid c4 b4 ) d4 ( e4 ) d4 ( e4 d4 ) c4 ( d4 )
     \slurDashed e4 ( \slurSolid d4 c4 ) d4 d4 ( c4 ) \bar "||"
-    \break | % 5
-    \time 33/4  | % 5
+    \break | % 6
+    \time 33/4  | % 6
     c4 ^"D" ( d4 ) c4 c4 c4 ( d4 ) e4 ( f4 ) e4 e4 ( d4 ) d4 ( g4 ) g4 g4
     g4 g4 \slurDashed g4 ( \slurSolid f4 e4 ) f4 d4 ( e4 d4 ) c4 c4 ( d4
     ) \slurDashed f4 ( \slurSolid e4 d4 ) e4 ( f4 e4 ) \bar "||"
-    \break | % 6
-    \time 68/4  | % 6
+    \break | % 7
+    \time 68/4  | % 7
     d4 ^"R2" ( c4 ) d4 ( e4 d4 ) c4 c4 ( d4 ) c4 c4 d4 c4 c4 ( b4 ) c4 (
     d4 c4 ) a4 ( c4 ) a4 ( g4 ) g4 ( a4 ) \slurDashed c4 ( \slurSolid b4
     a4 ) c4 g4 ( a4 g4 ) c4 d4 e4 ( f4 e4 ) d4 ( c4 ) d4 ( e4 d4 ) c4 c4
     ( b4 ) b4 ( a4 ) c4 c4 c4 ( e4 ) \slurDashed f4 ( \slurSolid e4 d4 )
     \slurDashed d4 ( \slurSolid c4 b4 ) d4 ( e4 ) d4 ( e4 d4 ) c4 ( d4 )
     \slurDashed e4 ( \slurSolid d4 c4 ) d4 d4 ( c4 ) \bar "||"
-    \break | % 7
-    \time 18/4  | % 7
+    \break | % 8
+    \time 18/4  | % 8
     c4 ^"PROSA" ( bes4 ) bes4 ( a4 ) bes4 c4 d4 e4 f4 e4 d4 e4 d4 c4 d4
     c4 d4 e4 \bar "||"
     \time 12/4  c4 e4 f4 e4 d4 e4 d4 c4 d4 c4 d4 e4 \bar "||"
-    \break | % 9
+    \break | \barNumberCheck #10
     \time 11/4  e4 d4 c4 d4 c4 d4 e4 g4 f4 d4 e4 \bar "||"
     e4 d4 c4 d4 c4 d4 e4 g4 f4 d4 e4 \bar "||"
-    \break | % 11
+    \break | % 12
     \time 13/4  c4 c4 e4 f4 e4 e4 d4 c4 d4 d4 e4 d4 c4 \bar "||"
     c4 c4 e4 f4 e4 e4 d4 c4 d4 d4 e4 d4 c4 \bar "||"
-    \break | % 13
+    \break | % 14
     \time 10/4  c4 c4 e4 f4 e4 d4 e4 g4 f4 e4 \bar "||"
     \time 16/4  c4 c4 e4 f4 e4 e4 d4 c4 e4 g4 f4 e4 e4 d4 d4 c4 \bar
     "||"
-    \break | % 15
+    \break | % 16
     \time 22/4  c4 d4 e4 e4 f4 e4 d4 \slurDashed d4 ( \slurSolid c4 b4 )
     d4 d4 ( e4 d4 ) c4 ( d4 ) \slurDashed e4 ( \slurSolid d4 c4 ) d4 d4
     ( c4 ) \bar "|."
     }
 
 PartPOneVoiceOneLyricsOne =  \lyricmode { "Gau " -- de "Ma " -- "ri " --
-    "a " __ "vir " -- "go " __ \skip4 cun -- ctas "he " -- \skip4 re --
+    "a " __ "vir " -- "go: " __ \skip4 cun -- ctas "he " -- \skip4 re --
     ses "so " -- la "in " -- \skip4 ter -- e -- "mi " -- \skip4 "sti "
     __ "que " __ "Ga " -- bri -- "e " -- \skip4 lis "ar " -- "chan " --
     "ge " -- li di -- "ctis " __ cre -- "di " -- di -- "sti. " __ \skip4

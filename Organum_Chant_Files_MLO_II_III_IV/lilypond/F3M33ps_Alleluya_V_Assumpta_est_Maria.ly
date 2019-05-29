@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2018-05-13"
+    encodingdate = "2019-05-28"
     copyright = "Copyright © "
     title = "33. Alleluya V. Assumpta est Maria"
     }
@@ -32,21 +32,21 @@ PartPOneVoiceOne =  \relative c {
     \slurSolid f4 e4 ) e4 g4 \slurDashed a4 ( \slurSolid g4 f4 ) d4 e4
     \bar "||"
     \break | % 2
-    \time 82/4  | % 2
+    \time 122/4  | % 2
     f4 -"15" -"V" e4 f4 d4 e4 d4 d4 ( c4 ) c4 -"20" d4 d4 e4 e4 d4 d4 d4
     f4 e4 -"25" f4 f4 e4 e4 ( d4 ) e4 f4 g4 -"30" a4 f4 g4 e4 f4 d4 e4 d4
     c4 d4 d4 f4 d4 e4 f4 g4 \slurDashed f4 ( \slurSolid e4 ) e4 e4 -"40"
     e4 g4 g4 a4 a4 \slurDashed bes4 ( \slurSolid a4 g4 ) f4 g4 a4
     \slurDashed g4 ( \slurSolid f4 ) d4 e4 -"45" e4 g4 a4 b4 \slurDashed
     a4 ( \slurSolid g4 ) f4 g4 a4 \slurDashed g4 ( \slurSolid f4 ) d4 e4
-    e4 e4 d4 f4 a4 \slurDashed g4 ( \slurSolid f4 e4 ) \break | % 3
-    \time 40/4  f4 \slurDashed e4 ( \slurSolid d4 c4 ) d4 f4 d4 -"55" e4
-    e4 g4 \slurDashed e4 ( \slurSolid d4 ) \slurDashed f4 ( \slurSolid d4
-    c4 ) e4 c4 d4 f4 -"60" e4 f4 d4 e4 \slurDashed d4 ( \slurSolid c4 )
-    e4 e4 d4 f4 \slurDashed a4 ( \slurSolid g4 f4 e4 ) e4 g4 -"65"
-    \slurDashed a4 ( \slurSolid g4 f4 ) d4 e4 \bar "||"
-    \break | % 4
-    \time 33/4  | % 4
+    e4 e4 d4 f4 a4 \slurDashed g4 ( \slurSolid f4 e4 ) f4 \slurDashed e4
+    ( \slurSolid d4 c4 ) d4 f4 d4 -"55" e4 e4 g4 \slurDashed e4 (
+    \slurSolid d4 ) \slurDashed f4 ( \slurSolid d4 c4 ) e4 c4 d4 f4
+    -"60" e4 f4 d4 e4 \slurDashed d4 ( \slurSolid c4 ) e4 e4 d4 f4
+    \slurDashed a4 ( \slurSolid g4 f4 e4 ) e4 g4 -"65" \slurDashed a4 (
+    \slurSolid g4 f4 ) d4 e4 \bar "||"
+    \break | % 3
+    \time 33/4  | % 3
     c4 -"R" d4 f4 e4 f4 e4 e4 ( d4 ) d4 e4 f4 g4 e4 f4 d4 \slurDashed e4
     ( \slurSolid d4 c4 ) e4 e4 d4 -"10" f4 a4 \slurDashed g4 (
     \slurSolid f4 e4 ) e4 g4 \slurDashed a4 ( \slurSolid g4 f4 ) d4 e4

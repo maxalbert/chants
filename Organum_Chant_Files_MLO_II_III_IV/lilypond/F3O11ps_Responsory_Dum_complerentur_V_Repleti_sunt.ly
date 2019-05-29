@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2017-03-20"
+    encodingdate = "2019-05-28"
     copyright = "Copyright © "
     title = "11. Responsory: Dum complerentur V. Repleti sunt"
     }
@@ -35,15 +35,16 @@ PartPOneVoiceOne =  \relative f {
     \slurDashed f4 ( \slurSolid e4 d4 ) f4 f4 d4 ( e4 ) g4 ( a4 )
     \slurDashed c4 ( \slurSolid a4 g4 f4 ) a4 ( b4 a4 ) a4 ( g4 ) a4 ( g4
     ) \break | % 2
-    \time 56/4  | % 2
+    \time 13/4  | % 2
     g4 ^"R2" -"40" ( a4 g4 ) a4 ( g4 ) g4 ( e4 ) f4 ( e4 ) e4 ( d4 ) e4
-    ( d4 ) d4 ( g4 ) a4 ( \slurDashed c4 ) ( \slurSolid a4 g4 ) a4 ( c4
-    ) c4 c4 -"50" b4 ( c4 ) c4 c4 c4 c4 \slurDashed c4 ( \slurSolid b4 a4
-    ) g4 ( \slurDashed a4 ) ( \slurSolid g4 f4 ) a4 ( c4 ) \slurDashed c4
-    ( \slurSolid b4 a4 ) g4 -"60" ( \slurDashed a4 ) ( \slurSolid g4 f4
-    ) a4 ( c4 ) \slurDashed c4 ( \slurSolid b4 a4 ) a4 a4 ( g4 ) a4 ( b4
-    a4 ) \break | % 3
-    \time 80/4  | % 3
+    ( d4 ) | % 3
+    \time 43/4  d4 ( g4 ) a4 ( \slurDashed c4 ) ( \slurSolid a4 g4 ) a4
+    ( c4 ) c4 c4 -"50" b4 ( c4 ) c4 c4 c4 c4 \slurDashed c4 ( \slurSolid
+    b4 a4 ) g4 ( \slurDashed a4 ) ( \slurSolid g4 f4 ) a4 ( c4 )
+    \slurDashed c4 ( \slurSolid b4 a4 ) g4 -"60" ( \slurDashed a4 ) (
+    \slurSolid g4 f4 ) a4 ( c4 ) \slurDashed c4 ( \slurSolid b4 a4 ) a4
+    a4 ( g4 ) a4 ( b4 a4 ) \break | % 4
+    \time 80/4  | % 4
     f4 ^"R3" ( e4 ) f4 g4 ( a4 ) a4 g4 -"70" a4 ( g4 a4 ) f4 ( e4 ) d4 d4
     ( g4 ) \slurDashed a4 ( \slurSolid g4 f4 ) g4 ( a4 g4 a4 ) a4 ( g4 )
     a4 a4 ( g4 a4 ) f4 -"80" ( e4 ) d4 ( g4 ) \slurDashed a4 (
@@ -52,15 +53,15 @@ PartPOneVoiceOne =  \relative f {
     c4 ( b4 \slurDashed c4 ) ( \slurSolid b4 g4 ) a4 ( \slurDashed c4 )
     ( \slurSolid b4 a4 ) c4 ( g4 ) a4 ( \slurDashed b4 ) ( \slurSolid a4
     g4 ) e4 ( g4 f4 ) f4 f4 ( e4 ) \bar "||"
-    \break | % 4
-    \time 51/4  | % 4
+    \break | % 5
+    \time 51/4  | % 5
     c'4 ^"V" -"100" b4 ( d4 c4 ) c4 c4 c4 ( a4 ) b4 ( \slurDashed c4 ) (
     \slurSolid b4 a4 g4 ) a4 ( g4 ) b4 ( c4 ) a4 ( g4 ) a4 ( g4 ) a4
     -"110" c4 b4 ( d4 c4 ) c4 c4 ( b4 ) c4 b4 ( d4 c4 ) c4 ( a4 ) b4 ( c4
     b4 ) a4 ( g4 ) g4 -"120" ( a4 c4 ) \slurDashed c4 ( \slurSolid b4 a4
     ) b4 ( c4 b4 ) a4 ( g4 ) \bar "||"
-    \break | % 5
-    \time 80/4  | % 5
+    \break | % 6
+    \time 80/4  | % 6
     f4 ^"R3" ( e4 ) f4 g4 ( a4 ) a4 g4 a4 ( g4 a4 ) f4 ( e4 ) d4 d4 ( g4
     ) \slurDashed a4 ( \slurSolid g4 f4 ) g4 ( a4 g4 a4 ) a4 ( g4 ) a4 a4
     ( g4 a4 ) f4 ( e4 ) d4 ( g4 ) \slurDashed a4 ( \slurSolid g4 f4 ) g4
@@ -69,23 +70,23 @@ PartPOneVoiceOne =  \relative f {
     \slurSolid b4 g4 ) a4 ( \slurDashed c4 ) ( \slurSolid b4 a4 ) c4 ( g4
     ) a4 ( \slurDashed b4 ) ( \slurSolid a4 g4 ) e4 ( g4 f4 ) f4 f4 ( e4
     ) \bar "||"
-    \break | % 6
-    \time 48/4  | % 6
+    \break | % 7
+    \time 48/4  | % 7
     c'4 ^"D" ( d4 c4 ) c4 c4 c4 ( a4 ) b4 -"130" ( \slurDashed c4 ) (
     \slurSolid b4 a4 g4 ) a4 ( g4 ) a4 ( g4 ) a4 c4 c4 b4 ( d4 c4 ) c4 c4
     ( b4 ) c4 c4 -"140" b4 ( d4 c4 ) c4 ( a4 ) b4 ( c4 b4 ) a4 ( g4 ) g4
     ( a4 c4 ) \slurDashed c4 ( \slurSolid b4 a4 ) b4 ( c4 b4 ) a4 ( g4 )
     \bar "||"
-    \break | % 7
-    \time 56/4  | % 7
+    \time 13/4  | % 8
     g4 ^"R2" -"40" ( a4 g4 ) a4 ( g4 ) g4 ( e4 ) f4 ( e4 ) e4 ( d4 ) e4
-    ( d4 ) d4 ( g4 ) a4 ( \slurDashed c4 ) ( \slurSolid a4 g4 ) a4 ( c4
-    ) c4 c4 b4 ( c4 ) c4 c4 c4 c4 \slurDashed c4 ( \slurSolid b4 a4 ) g4
-    ( \slurDashed a4 ) ( \slurSolid g4 f4 ) a4 ( c4 ) \slurDashed c4 (
-    \slurSolid b4 a4 ) g4 ( \slurDashed a4 ) ( \slurSolid g4 f4 ) a4 ( c4
-    ) \slurDashed c4 ( \slurSolid b4 a4 ) a4 a4 ( g4 ) a4 ( b4 a4 )
-    \break | % 8
-    \time 80/4  | % 8
+    ( d4 ) \break | % 9
+    \time 43/4  d4 ( g4 ) a4 ( \slurDashed c4 ) ( \slurSolid a4 g4 ) a4
+    ( c4 ) c4 c4 b4 ( c4 ) c4 c4 c4 c4 \slurDashed c4 ( \slurSolid b4 a4
+    ) g4 ( \slurDashed a4 ) ( \slurSolid g4 f4 ) a4 ( c4 ) \slurDashed c4
+    ( \slurSolid b4 a4 ) g4 ( \slurDashed a4 ) ( \slurSolid g4 f4 ) a4 (
+    c4 ) \slurDashed c4 ( \slurSolid b4 a4 ) a4 a4 ( g4 ) a4 ( b4 a4 )
+    \break | \barNumberCheck #10
+    \time 80/4  | \barNumberCheck #10
     f4 ^"R3" ( e4 ) f4 g4 ( a4 ) a4 g4 a4 ( g4 a4 ) f4 ( e4 ) d4 d4 ( g4
     ) \slurDashed a4 ( \slurSolid g4 f4 ) g4 ( a4 g4 a4 ) a4 ( g4 ) a4 a4
     ( g4 a4 ) f4 ( e4 ) d4 ( g4 ) \slurDashed a4 ( \slurSolid g4 f4 ) g4
@@ -101,10 +102,10 @@ PartPOneVoiceOneLyricsOne =  \lyricmode { "Dum " __ \skip4 \skip4 \skip4
     "es " __ "pen " -- \skip4 "the " -- "cos " -- "tes " __ \skip4
     \skip4 "e " -- \skip4 "rant " __ \skip4 "om " -- "nes " __ "pa " --
     \skip4 ri -- "ter " __ \skip4 \skip4 \skip4 "di " -- "cen " --
-    \skip4 \skip4 \skip4 "tes " __ "al " -- "le " -- "lu " -- \skip4
-    \skip4 "ya " __ "et " __ "su " -- \skip4 bi -- to "fac " -- tus est
+    \skip4 \skip4 \skip4 "tes: " __ "al " -- "le " -- "lu " -- \skip4
+    \skip4 "ya. " __ "et " __ "su " -- \skip4 bi -- to "fac " -- tus est
     "so " -- \skip4 \skip4 "nus " __ "de " __ "ce " -- "lo " __ "al " --
-    "le " -- lu -- "ya " __ \skip4 "Tam " -- quam "spi " -- ri -- tus
+    "le " -- lu -- "ya; " __ \skip4 "Tam " -- quam "spi " -- ri -- tus
     "tor " -- "rens " __ re -- "ple " -- \skip4 \skip4 "vit " __ "to "
     -- \skip4 "tam " __ "do " -- \skip4 \skip4 "mum " __ al -- "lu " --
     \skip4 \skip4 \skip4 "ya " __ "al " -- "le " -- \skip4 \skip4 \skip4
@@ -118,13 +119,13 @@ PartPOneVoiceOneLyricsOne =  \lyricmode { "Dum " __ \skip4 \skip4 \skip4
     "lu " -- \skip4 "ya. " __ "Glo " -- \skip4 ri -- "a " __ \skip4
     \skip4 "pa " -- tri et fi -- "li " -- \skip4 "o " __ et spi -- "ri "
     -- \skip4 \skip4 "tu " -- "i " __ "san " -- \skip4 "cto. " __ "al "
-    -- "le " -- "lu " -- \skip4 \skip4 "ya " __ "et " __ "su " -- \skip4
-    bi -- to "fac " -- tus est "so " -- \skip4 \skip4 "nus " __ "de " __
-    "ce " -- "lo " __ "al " -- "le " -- lu -- "ya " __ \skip4 "Tam " --
-    quam "spi " -- ri -- tus "tor " -- "rens " __ re -- "ple " -- \skip4
-    \skip4 "vit " __ "to " -- \skip4 "tam " __ "do " -- \skip4 \skip4
-    "mum " __ al -- "lu " -- \skip4 \skip4 \skip4 "ya " __ "al " -- "le
-    " -- \skip4 \skip4 \skip4 \skip4 "lu " -- \skip4 "ya. " __ }
+    -- "le " -- "lu " -- \skip4 \skip4 "ya. " __ "et " __ "su " --
+    \skip4 bi -- to "fac " -- tus est "so " -- \skip4 \skip4 "nus " __
+    "de " __ "ce " -- "lo " __ "al " -- "le " -- lu -- "ya; " __ \skip4
+    "Tam " -- quam "spi " -- ri -- tus "tor " -- "rens " __ re -- "ple "
+    -- \skip4 \skip4 "vit " __ "to " -- \skip4 "tam " __ "do " -- \skip4
+    \skip4 "mum " __ al -- "lu " -- \skip4 \skip4 \skip4 "ya " __ "al "
+    -- "le " -- \skip4 \skip4 \skip4 \skip4 "lu " -- \skip4 "ya. " __ }
 
 % The score definition
 \score {

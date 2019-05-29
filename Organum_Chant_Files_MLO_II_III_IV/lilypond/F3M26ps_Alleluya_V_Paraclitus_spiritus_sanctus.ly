@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2017-03-20"
+    encodingdate = "2019-05-28"
     copyright = "Copyright © "
     title = "26. Alleluya V. Paraclitus spiritus sanctus"
     }
@@ -75,7 +75,7 @@ PartPOneVoiceOneLyricsOne =  \lyricmode { Al le \skip4 \skip4 \skip4 lu
     \skip4 pa \skip4 ter in no \skip4 \skip4 \skip4 ne \skip4 me \skip4
     o il le vos do ce \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
-    \skip4 bit om \skip4 nem \skip4 ve ri \skip4 ta tem \skip4 \skip4
+    \skip4 bit om \skip4 nem \skip4 ve ri \skip4 ta "tem." \skip4 \skip4
     \skip4 \skip4 \skip4 \skip4 Al le \skip4 \skip4 \skip4 lu \skip4
     \skip4 \skip4 ya \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 }

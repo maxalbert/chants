@@ -5,7 +5,7 @@
 \header {
     poet = "90"
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2017-03-20"
+    encodingdate = "2019-05-28"
     title = "21. Responsory: Per tuam V. Miserere"
     }
 

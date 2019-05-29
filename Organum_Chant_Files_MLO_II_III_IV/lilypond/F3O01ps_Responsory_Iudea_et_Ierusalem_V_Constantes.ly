@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2017-03-20"
+    encodingdate = "2019-05-28"
     title = "1. Responsory: Iudea et Ierusalem V. Constantes"
     }
 
@@ -29,39 +29,37 @@ PartPOneVoiceOne =  \relative f {
     f4 ^"R1" d4 ( f4 ) f4 f4 f4 f4 f4 ( e4 ) d4 ( e4 ) e4 ( g4 ) a4 ( d,4
     ) f4 f4 ( e4 ) c4 ( e4 ) g4 ( e4 \slurDashed f4 ) ( \slurSolid e4 d4
     ) a4 ( c4 ) g'4 g4 f4 ( a4 ) a4 ( g4 a4 ) e4 \break | % 2
-    \time 9/4  | % 2
-    d4 ^"R2" ( e4 ) g4 e4 a4 a4 ( b4 ) a4 a4 | % 3
-    \time 53/4  | % 3
-    a4 ^"R3" ( g4 ) a4 \slurDashed a4 ( \slurSolid g4 e4 ) \slurDashed f4
-    ( \slurSolid e4 d4 ) f4 ( g4 a4 ) g4 ( a4 ) a4 a4 ( f4 ) \slurDashed
-    g4 ( \slurSolid f4 e4 c4 ) d4 d4 ( f4 ) \slurDashed g4 ( \slurSolid
-    f4 e4 ) d4 ( e4 ) e4 ( g4 ) a4 a4 ( g4 \slurDashed a4 ) ( \slurSolid
-    g4 f4 ) \slurDashed g4 ( \slurSolid f4 e4 ) a4 a4 ( f4 g4 ) g4 ( f4
-    ) d4 ( f4 ) e4 ( f4 ) g4 f4 ( e4 ) \bar "||"
-    \break | % 4
-    \time 47/4  | % 4
+    \time 62/4  | % 2
+    d4 ^"R2" ( e4 ) g4 e4 a4 a4 ( b4 ) a4 a4 a4 ^"R3" ( g4 ) a4
+    \slurDashed a4 ( \slurSolid g4 e4 ) \slurDashed f4 ( \slurSolid e4 d4
+    ) f4 ( g4 a4 ) g4 ( a4 ) a4 a4 ( f4 ) \slurDashed g4 ( \slurSolid f4
+    e4 c4 ) d4 d4 ( f4 ) \slurDashed g4 ( \slurSolid f4 e4 ) d4 ( e4 ) e4
+    ( g4 ) a4 a4 ( g4 \slurDashed a4 ) ( \slurSolid g4 f4 ) \slurDashed
+    g4 ( \slurSolid f4 e4 ) a4 a4 ( f4 g4 ) g4 ( f4 ) d4 ( f4 ) e4 ( f4
+    ) g4 f4 ( e4 ) \bar "||"
+    \break | % 3
+    \time 47/4  | % 3
     d4 ^"V" ( a'4 ) a4 \slurDashed g4 ( \slurSolid f4 e4 ) d4 ( f4 ) e4
     ( f4 ) g4 ( a4 ) g4 a4 ( c4 ) a4 g4 ( f4 ) g4 ( a4 ) g4 ( e4 ) d4 (
     f4 ) e4 ( f4 ) g4 ( a4 d,4 ) d4 ( f4 ) g4 f4 ( e4 ) d4 d4 f4 ( g4 )
     a4 f4 ( g4 e4 ) d4 ( e4 c4 ) d4 ( e4 ) \bar "||"
+    \break | % 4
+    \time 62/4  | % 4
+    d4 ^"R2" ( e4 ) g4 e4 a4 a4 ( b4 ) a4 a4 a4 ^"R3" ( g4 ) a4
+    \slurDashed a4 ( \slurSolid g4 e4 ) \slurDashed f4 ( \slurSolid e4 d4
+    ) f4 ( g4 a4 ) g4 ( a4 ) a4 a4 ( f4 ) \slurDashed g4 ( \slurSolid f4
+    e4 c4 ) d4 d4 ( f4 ) \slurDashed g4 ( \slurSolid f4 e4 ) d4 ( e4 ) e4
+    ( g4 ) a4 a4 ( g4 \slurDashed a4 ) ( \slurSolid g4 f4 ) \slurDashed
+    g4 ( \slurSolid f4 e4 ) a4 a4 ( f4 g4 ) g4 ( f4 ) d4 ( f4 ) e4 ( f4
+    ) g4 f4 ( e4 ) \bar "||"
     \break | % 5
-    \time 9/4  | % 5
-    d4 ^"R2" ( e4 ) g4 e4 a4 a4 ( b4 ) a4 a4 | % 6
-    \time 53/4  | % 6
-    a4 ^"R3" ( g4 ) a4 \slurDashed a4 ( \slurSolid g4 e4 ) \slurDashed f4
-    ( \slurSolid e4 d4 ) f4 ( g4 a4 ) g4 ( a4 ) a4 a4 ( f4 ) \slurDashed
-    g4 ( \slurSolid f4 e4 c4 ) d4 d4 ( f4 ) \slurDashed g4 ( \slurSolid
-    f4 e4 ) d4 ( e4 ) e4 ( g4 ) a4 a4 ( g4 \slurDashed a4 ) ( \slurSolid
-    g4 f4 ) \slurDashed g4 ( \slurSolid f4 e4 ) a4 a4 ( f4 g4 ) g4 ( f4
-    ) d4 ( f4 ) e4 ( f4 ) g4 f4 ( e4 ) \bar "||"
-    \break | % 7
-    \time 38/4  | % 7
+    \time 38/4  | % 5
     d4 ^"D" ( a'4 ) a4 \slurDashed a4 ( \slurSolid g4 e4 ) d4 ( e4 ) f4
     ( g4 a4 ) g4 a4 ( c4 ) a4 g4 ( f4 ) g4 ( a4 ) g4 g4 g4 \slurDashed f4
     ( \slurSolid e4 d4 ) d4 d4 ( f4 g4 ) a4 f4 ( g4 e4 ) d4 ( e4 c4 ) d4
     ( e4 ) \bar "||"
-    \break | % 8
-    \time 53/4  | % 8
+    \break | % 6
+    \time 53/4  | % 6
     a4 ^"R3" ( g4 ) a4 \slurDashed a4 ( \slurSolid g4 e4 ) \slurDashed f4
     ( \slurSolid e4 d4 ) f4 ( g4 a4 ) g4 ( a4 ) a4 a4 ( f4 ) \slurDashed
     g4 ( \slurSolid f4 e4 c4 ) d4 d4 ( f4 ) \slurDashed g4 ( \slurSolid
@@ -72,14 +70,14 @@ PartPOneVoiceOne =  \relative f {
 
 PartPOneVoiceOneLyricsOne =  \lyricmode { Iu -- "de " -- \skip4 a et Ie
     -- "ru " -- "sa " -- lem \skip4 \skip4 \skip4 "no " -- "li " -- te
-    \skip4 ti -- "me " -- \skip4 "re." "Cras " __ e -- gre -- di -- "e "
-    -- mi -- ni "et " __ "do " -- \skip4 \skip4 "mi " -- "nus " __ "e "
-    -- \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
+    \skip4 ti -- "me " -- \skip4 "re:" "Cras " __ e -- gre -- di -- "e "
+    -- mi -- "ni," "et " __ "do " -- \skip4 \skip4 "mi " -- "nus " __ "e
+    " -- \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
     \skip4 \skip4 \skip4 "-rit " __ "vo " -- "bis " -- \skip4 "cum."
     "Con " -- stan -- "tes " __ "e " -- "sto " -- \skip4 te "vi " -- de
     -- "bi " -- "tis " __ "au " -- "xi " -- "li " -- \skip4 "um " __ do
     -- "mi " -- ni su -- "per " __ "vox. " __ \skip4 \skip4 \skip4 "Cras
-    " __ e -- gre -- di -- "e " -- mi -- ni "et " __ "do " -- \skip4
+    " __ e -- gre -- di -- "e " -- mi -- "ni," "et " __ "do " -- \skip4
     \skip4 "mi " -- "nus " __ "e " -- \skip4 \skip4 \skip4 \skip4 \skip4
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 "-rit " __ "vo " --
     "bis " -- \skip4 "cum." "Glo " -- ri -- "a " __ "pa " -- \skip4 tri

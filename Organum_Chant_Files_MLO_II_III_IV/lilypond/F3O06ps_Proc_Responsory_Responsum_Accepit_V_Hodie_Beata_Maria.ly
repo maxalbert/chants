@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2017-03-20"
+    encodingdate = "2019-05-28"
     title = "6. Processional Responsory: Responsum Accepit V. Hodie Beata Maria"
     }
 
@@ -61,25 +61,25 @@ PartPOneVoiceOneLyricsOne =  \lyricmode { Res pon \skip4 \skip4 \skip4
     tu \skip4 \skip4 sanc to \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
     \skip4 non vi \skip4 su \skip4 rum \skip4 se \skip4 mor \skip4 tem
     \skip4 ni si \skip4 vi \skip4 de ret \skip4 chris \skip4 tum \skip4
-    do \skip4 mi \skip4 ni \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 et
-    \skip4 cum in \skip4 du \skip4 ce \skip4 rent pu \skip4 e \skip4 rum
-    \skip4 in \skip4 \skip4 tem \skip4 \skip4 \skip4 plum \skip4 \skip4
-    \skip4 \skip4 \skip4 \skip4 ac ce pit \skip4 e \skip4 um in \skip4
-    ul \skip4 vas \skip4 \skip4 su as et be ne \skip4 di \skip4 \skip4
-    \skip4 xit \skip4 \skip4 de \skip4 \skip4 um et \skip4 \skip4 di xit
+    do \skip4 mi \skip4 "ni." \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
+    et \skip4 cum in \skip4 du \skip4 ce \skip4 rent pu \skip4 e \skip4
+    rum \skip4 in \skip4 \skip4 tem \skip4 \skip4 \skip4 plum \skip4
+    \skip4 \skip4 \skip4 \skip4 \skip4 ac ce pit \skip4 e \skip4 um in
+    \skip4 ul \skip4 vas \skip4 \skip4 su as et be ne \skip4 di \skip4
+    \skip4 \skip4 xit \skip4 \skip4 de \skip4 \skip4 um et \skip4 \skip4
+    di "xit:" Nunc \skip4 \skip4 \skip4 \skip4 \skip4 di \skip4 \skip4
+    mit \skip4 tis \skip4 \skip4 do \skip4 \skip4 \skip4 \skip4 \skip4
+    \skip4 mi \skip4 ne ser vum \skip4 tu \skip4 um in \skip4 \skip4 pa
+    "ce." Ho di \skip4 e be \skip4 \skip4 a \skip4 ta \skip4 \skip4 vir
+    go Ma \skip4 \skip4 ri a pu e \skip4 rum Ihe \skip4 sum pre sen ta
+    \skip4 vit \skip4 in \skip4 \skip4 tem plum et \skip4 \skip4 Sy
+    \skip4 me \skip4 on re \skip4 \skip4 ple \skip4 tus \skip4 \skip4
+    spi \skip4 ri tu \skip4 \skip4 sanc to ac ce pit \skip4 \skip4 e
+    \skip4 um in \skip4 \skip4 vul \skip4 nas \skip4 \skip4 su as et
+    \skip4 be ne di \skip4 xit de \skip4 um et \skip4 \skip4 di "xit."
     Nunc \skip4 \skip4 \skip4 \skip4 \skip4 di \skip4 \skip4 mit \skip4
     tis \skip4 \skip4 do \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 mi
-    \skip4 ne ser vum \skip4 tu \skip4 um in \skip4 \skip4 pa "ce." Ho
-    di \skip4 e be \skip4 \skip4 a \skip4 ta \skip4 \skip4 vir go Ma
-    \skip4 \skip4 ri a pu e \skip4 rum Ihe \skip4 sum pre sen ta \skip4
-    vit \skip4 in \skip4 \skip4 tem plum et \skip4 \skip4 Sy \skip4 me
-    \skip4 on re \skip4 \skip4 ple \skip4 tus \skip4 \skip4 spi \skip4
-    ri tu \skip4 \skip4 sanc to ac ce pit \skip4 \skip4 e \skip4 um in
-    \skip4 \skip4 vul \skip4 nas \skip4 \skip4 su as et \skip4 be ne di
-    \skip4 xit de \skip4 um et \skip4 \skip4 di "xit." Nunc \skip4
-    \skip4 \skip4 \skip4 \skip4 di \skip4 \skip4 mit \skip4 tis \skip4
-    \skip4 do \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 mi \skip4 ne ser
-    vum \skip4 tu \skip4 um in \skip4 \skip4 pa "ce." }
+    \skip4 ne ser vum \skip4 tu \skip4 um in \skip4 \skip4 pa "ce." }
 
 % The score definition
 \score {

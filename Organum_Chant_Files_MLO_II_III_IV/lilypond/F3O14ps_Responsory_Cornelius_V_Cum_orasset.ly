@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2017-03-20"
+    encodingdate = "2019-05-28"
     title = "14. Responsory: Cornelius V. Cum orasset"
     }
 
@@ -92,7 +92,7 @@ PartPOneVoiceOneLyricsOne =  \lyricmode { Cor ne \skip4 li \skip4 us cen
     mit \skip4 te \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
     \skip4 et ac \skip4 ces \skip4 si \skip4 Sy mo \skip4 \skip4 \skip4
     \skip4 nem \skip4 qui cog \skip4 \skip4 no mi na \skip4 \skip4
-    \skip4 \skip4 tur \skip4 Pe \skip4 \skip4 trus \skip4 Hic \skip4
+    \skip4 \skip4 tur \skip4 Pe \skip4 \skip4 "trus;" \skip4 Hic \skip4
     \skip4 \skip4 \skip4 di \skip4 cet \skip4 ti \skip4 \skip4 bi \skip4
     quid te \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 o
     \skip4 por \skip4 te at fa ce \skip4 "re." \skip4 \skip4 \skip4
@@ -104,7 +104,7 @@ PartPOneVoiceOneLyricsOne =  \lyricmode { Cor ne \skip4 li \skip4 us cen
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 et ac \skip4 ces \skip4 si
     \skip4 Sy mo \skip4 \skip4 \skip4 \skip4 nem \skip4 qui cog \skip4
     \skip4 no mi na \skip4 \skip4 \skip4 \skip4 tur \skip4 Pe \skip4
-    \skip4 trus \skip4 Hic \skip4 \skip4 \skip4 \skip4 di \skip4 cet
+    \skip4 "trus;" \skip4 Hic \skip4 \skip4 \skip4 \skip4 di \skip4 cet
     \skip4 ti \skip4 \skip4 bi \skip4 quid te \skip4 \skip4 \skip4
     \skip4 \skip4 \skip4 \skip4 \skip4 o \skip4 por \skip4 te at fa ce
     \skip4 "re." \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4

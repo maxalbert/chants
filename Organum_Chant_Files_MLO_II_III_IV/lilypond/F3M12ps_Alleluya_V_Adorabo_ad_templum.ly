@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2017-03-20"
+    encodingdate = "2019-05-28"
     copyright = "Copyright © "
     title = "12. Alleluya V. Adorabo ad templum"
     }
@@ -32,23 +32,23 @@ PartPOneVoiceOne =  \relative g {
     \slurDashed c4 -"15" ( \slurSolid a4 g4 ) a4 ( b4 a4 ) a4 ( g4 f4 )
     \bar "||"
     \break | % 2
-    \time 45/4  | % 2
+    \time 44/4  | % 2
     a4 -"V" -"20" c4 c4 d4 c4 ( d4 a4 ) g4 ( a4 f4 ) a4 ( c4 )
     \slurDashed c4 -"25" ( \slurSolid b4 a4 g4 ) a4 ( g4 ) g4 g4 ( a4
     -"30" ) g4 ( a4 ) g4 f4 ( a4 ) c4 ( e4 d4 ) e4 ( d4 c4 ) d4 -"35" (
     c4 ) a4 ( bes4 c4 \slurDashed a4 ) ( \slurSolid g4 f4 ) g4 ( a4 f4 )
-    f4 f4 -"40" \break | % 3
-    \time 54/4  g4 a4 c4 ( d4 f4 ) f4 ( c4 d4 -"45" ) d4 c4 c4 c4 ( a4 )
-    c4 c4 ( g4 ) a4 a4 ( f4 ) g4 f4 ( a4 ) c4 ( d4 ) f4 f4 ( c4 ) d4 d4
-    ( c4 ) c4 c4 -"60" ( a4 ) c4 c4 ( g4 ) a4 a4 ( f4 g4 -"65" ) g4 f4 g4
-    ( a4 g4 ) a4 ( c4 ) \slurDashed c4 ( \slurSolid b4 a4 g4 ) a4 -"70"
-    ( g4 ) \breathe g4 \break | % 4
-    \time 38/4  g4 ( a4 ) g4 a4 ( f4 g4 ) c4 ( a4 ) b4 -"75" ( c4 d4 ) c4
-    d4 ( e4 ) c4 c4 c4 -"80" ( g4 ) b4 ( d4 c4 ) c4 ( a4 f4 ) a4 ( c4 b4
-    ) d4 ( c4 -"85" ) c4 \slurDashed c4 ( \slurSolid a4 g4 ) a4 ( b4 a4
-    ) a4 ( g4 ) \bar "||"
-    \break | % 5
-    \time 37/4  | % 5
+    f4 \break | % 3
+    \time 93/4  | % 3
+    f4 -"40" g4 a4 c4 ( d4 f4 ) f4 ( c4 d4 -"45" ) d4 c4 c4 c4 ( a4 ) c4
+    c4 ( g4 ) a4 a4 ( f4 ) g4 f4 ( a4 ) c4 ( d4 ) f4 f4 ( c4 ) d4 d4 ( c4
+    ) c4 c4 -"60" ( a4 ) c4 c4 ( g4 ) a4 a4 ( f4 g4 -"65" ) g4 f4 g4 ( a4
+    g4 ) a4 ( c4 ) \slurDashed c4 ( \slurSolid b4 a4 g4 ) a4 -"70" ( g4
+    ) \breathe g4 g4 ( a4 ) g4 a4 ( f4 g4 ) c4 ( a4 ) b4 -"75" ( c4 d4 )
+    c4 d4 ( e4 ) c4 c4 c4 -"80" ( g4 ) b4 ( d4 c4 ) c4 ( a4 f4 ) a4 ( c4
+    b4 ) d4 ( c4 -"85" ) c4 \slurDashed c4 ( \slurSolid a4 g4 ) a4 ( b4
+    a4 ) a4 ( g4 ) \bar "||"
+    \break | % 4
+    \time 37/4  | % 4
     g4 -"R" a4 ( f4 g4 ) c4 ( a4 ) b4 ( c4 d4 ) c4 d4 ( e4 ) c4 c4 c4 (
     g4 ) b4 ( d4 c4 ) c4 ( a4 -"10" ) f4 ( a4 ) c4 ( b4 ) d4 ( c4 ) c4
     \slurDashed c4 -"15" ( \slurSolid a4 g4 ) a4 ( b4 a4 ) a4 ( g4 f4 )
@@ -58,8 +58,8 @@ PartPOneVoiceOne =  \relative g {
 PartPOneVoiceOneLyricsOne =  \lyricmode { Al le lu ya \skip4 \skip4
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
     \skip4 \skip4 \skip4 A do \skip4 ra \skip4 \skip4 \skip4 \skip4
-    \skip4 bo ad tem plum sanc \skip4 \skip4 tum tu \skip4 um et con fi
-    te \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
+    \skip4 bo ad tem plum sanc \skip4 \skip4 tum tu \skip4 "um:" et con
+    fi te \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 bor
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4

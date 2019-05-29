@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2017-03-20"
+    encodingdate = "2019-05-28"
     copyright = "Copyright © "
     title = "33. Responsory: Repleti sunt omnes V. Loquebantur"
     }
@@ -80,7 +80,7 @@ PartPOneVoiceOneLyricsOne =  \lyricmode { Re ple \skip4 \skip4 ti sunt
     \skip4 il \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 lis \skip4 Et
     con \skip4 ve nit \skip4 \skip4 mul \skip4 ti \skip4 tu \skip4
     \skip4 \skip4 do \skip4 \skip4 di \skip4 cen \skip4 ci \skip4 \skip4
-    \skip4 \skip4 \skip4 \skip4 um \skip4 al \skip4 \skip4 le \skip4
+    \skip4 \skip4 \skip4 \skip4 "um:" \skip4 al \skip4 \skip4 le \skip4
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 lu \skip4
     \skip4 \skip4 \skip4 "ya." \skip4 Lo que ban \skip4 \skip4 \skip4
     \skip4 tur va \skip4 ri is lin \skip4 guis \skip4 a \skip4 pos to
@@ -88,7 +88,7 @@ PartPOneVoiceOneLyricsOne =  \lyricmode { Re ple \skip4 \skip4 ti sunt
     \skip4 \skip4 \skip4 de \skip4 "i." \skip4 \skip4 Et con \skip4 ve
     nit \skip4 \skip4 mul \skip4 ti \skip4 tu \skip4 \skip4 \skip4 do
     \skip4 \skip4 di \skip4 cen \skip4 ci \skip4 \skip4 \skip4 \skip4
-    \skip4 \skip4 um \skip4 al \skip4 \skip4 le \skip4 \skip4 \skip4
+    \skip4 \skip4 "um:" \skip4 al \skip4 \skip4 le \skip4 \skip4 \skip4
     \skip4 \skip4 \skip4 \skip4 \skip4 \skip4 lu \skip4 \skip4 \skip4
     \skip4 "ya." \skip4 Glo \skip4 ri a \skip4 \skip4 \skip4 pa \skip4
     tri \skip4 et \skip4 fi li \skip4 o \skip4 \skip4 \skip4 et spi ri

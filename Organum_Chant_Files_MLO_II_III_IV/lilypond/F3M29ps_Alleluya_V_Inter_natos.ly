@@ -4,7 +4,7 @@
 
 \header {
     encodingsoftware = "Sibelius 6.2"
-    encodingdate = "2017-03-20"
+    encodingdate = "2019-05-28"
     copyright = "Copyright © "
     title = "29. Alleluya V. Inter natos"
     }
@@ -33,22 +33,23 @@ PartPOneVoiceOne =  \relative c {
     \slurSolid f4 d4 c4 ) e4 ( f4 ) g4 ( f4 ) \slurDashed a4 (
     \slurSolid g4 f4 ) \slurDashed g4 ( \slurSolid f4 e4 ) \bar "||"
     \break | % 2
-    \time 90/4  | % 2
+    \time 69/4  | % 2
     c4 -"V" c4 -"20" ( d4 ) d4 ( f4 d4 e4 ) c4 ( d4 f4 ) e4 ( f4 )
     \slurDashed a4 ( \slurSolid g4 -"25" e4 ) f4 ( d4 ) d4 d4 d4 ( a'4 )
     a4 -"30" ( c4 ) c4 ( a4 ) bes4 ( g4 ) g4 ( f4 a4 ) d,4 ( \slurDashed
     f4 ) ( \slurSolid e4 d4 -"35" c4 ) d4 d4 ( f4 ) a4 c4 c4 ( a4 -"40"
     ) bes4 ( g4 ) g4 ( f4 a4 ) d,4 ( \slurDashed f4 ) ( \slurSolid e4 d4
     c4 ) d4 d4 ( f4 e4 ) f4 f4 ( d4 e4 c4 f4 ) e4 ( f4 d4 e4 c4 d4 ) d4
+    \break | % 3
+    \time 82/4  | % 3
     c4 -"50" c4 ( d4 ) d4 ( e4 f4 e4 ) d4 d4 ( c4 e4 ) f4 ( g4 -"55" ) g4
-    ( f4 ) e4 ( d4 ) e4 ( f4 e4 ) d4 \break | % 3
-    \time 61/4  d4 c4 ( d4 ) d4 -"60" d4 ( a'4 ) a4 ( bes4 a4 ) g4
-    \slurDashed a4 ( \slurSolid g4 f4 e4 d4 ) d4 ( f4 ) \slurDashed a4 (
-    \slurSolid g4 e4 -"65" ) c4 ( d4 ) d4 ( f4 ) a4 ( \slurDashed bes4 )
-    ( \slurSolid a4 g4 ) \slurDashed a4 ( \slurSolid g4 f4 e4 d4 ) d4 (
-    f4 ) \slurDashed a4 -"70" ( \slurSolid g4 e4 ) c4 ( d4 ) g4 ( d4 ) (
-    f4 e4 f4 d4 ) e4 ( c4 d4 -"75" ) d4 c4 d4 ( f4 d4 e4 ) e4 g4 ( e4 )
-    f4 -"80" ( d4 e4 ) \bar "||"
+    ( f4 ) e4 ( d4 ) e4 ( f4 e4 ) d4 d4 c4 ( d4 ) d4 -"60" d4 ( a'4 ) a4
+    ( bes4 a4 ) g4 \slurDashed a4 ( \slurSolid g4 f4 e4 d4 ) d4 ( f4 )
+    \slurDashed a4 ( \slurSolid g4 e4 -"65" ) c4 ( d4 ) d4 ( f4 ) a4 (
+    \slurDashed bes4 ) ( \slurSolid a4 g4 ) \slurDashed a4 ( \slurSolid
+    g4 f4 e4 d4 ) d4 ( f4 ) \slurDashed a4 -"70" ( \slurSolid g4 e4 ) c4
+    ( d4 ) g4 ( d4 ) ( f4 e4 f4 d4 ) e4 ( c4 d4 -"75" ) d4 c4 d4 ( f4 d4
+    e4 ) e4 g4 ( e4 ) f4 -"80" ( d4 e4 ) \bar "||"
     \break | % 4
     \time 43/4  | % 4
     c4 -"R" d4 d4 ( f4 d4 e4 ) e4 ( c4 d4 ) d4 g4 ( e4 ) f4 ( d4 e4 ) e4
